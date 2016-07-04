@@ -1,0 +1,44 @@
+# main links
+main:
+  - title: "Chi Siamo"
+    url: /about/
+
+  - title: "Consulenza"
+    url: /visione-sistemica/
+
+  - title: "Formazione"
+    url: /formazione/
+
+  - title: "Contatti"
+    url: /contatti/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Privacy e politica dei Cookies"
+    url: /politica-dei-cookies/
+
+# pages nav links
+chisiamo:
+  - title: Approfondimenti
+    children:
+      - title: "- Il Team"
+        url: /il-team/
+
+      - title: "- Testimonianze"
+        url: /testimonianze/
+
+moreontls:
+  - title: Approfondimenti
+    children:
+      - title: "- La Theory Of Constraints"
+        url: /theory-of-constraints/
+
+      - title: "- Il Throughput Accounting"
+        url: /il-throughput-accounting/
+
+      - title: "- Produrre alla massima velocità"
+        url: /simplified-drum-buffer-rope/
+
+      - title: "- La Gestione dei Progetti"
+        url: /critical-chain-project-management/  
