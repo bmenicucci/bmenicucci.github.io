@@ -1,0 +1,186 @@
+# Welcome to Jekyll!
+# Site Settings
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+
+locale                   : "it"
+title                    : "Menicucci & Associati Sas"
+title_separator          : "/"
+name                     : "Brunello Menicucci"
+description              : "Crescere in Modo Sostenibile e Profittevole"
+posturl                  : https://dl.dropboxusercontent.com/u/312263/_Posts/
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  disqus:
+    shortname            : bmenicucci # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+
+# SEO Related
+google_site_verification :
+
+# Social Sharing
+twitter:
+  username               : bmenicucci
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links                  : # An array of links to social media profiles
+    - name: twitter
+      url: "https://twitter.com/bmenicucci"
+    - name: linkedin
+      url: "https://it.linkedin.com/in/bmenicucci"
+    - name: google_plus
+      url: "https://plus.google.com/+BrunelloMenicucciCMC"
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
+# Site Author
+author:
+  name             : "Brunello Menicucci"
+  avatar           : "bio-photo.jpg"
+  bio              : "Management Consultant CMC™"
+  location         : "Lido di Camaiore, LU"
+  email            :  brunello@menicucci.co
+  flickr           :
+  google_plus      : BrunelloMenicucciCMC
+  linkedin         : bmenicucci
+  skype            : skype:brunello.menicucci?chat
+  twitter          : bmenicucci
+  youtube          :
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  consulenza:
+    output: true
+    permalink: /:collection/:path/
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# Conversion
+markdown: kramdown
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - _plugins
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - gensite
+  - servesite
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

@@ -1,0 +1,69 @@
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="section-heading">Rimaniamo in Contatto!</h2>
+                <hr class="primary">
+                <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+            </div>
+        <div class="content">
+            <a href="mailto:{{ site.email }}">
+            <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                <p>{{ site.email }}</p>
+            </a>
+        </div>
+        <div class="col-md-4 col-xs-4 text-center">
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+                <i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".2s"></i>
+                <p>{{ site.twitter_username }}</p>
+            </a>
+        </div>
+        <div class="col-md-4 col-xs-4 text-center">
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+                <i class="fa fa-linkedin fa-3x wow bounceIn" data-wow-delay=".3s"></i>
+                <p>{{ site.linkedin_username }}</p>
+            </a>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+         <div class="col-sm-6">
+            <h3>POSSIAMO PARLARNE DAVANTI A UN CAFFE':</h3>
+            <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2874.3914628149328!2d10.2164159506801!3d43.909868843711656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d5a056f1f73a63%3A0xd599da7d8d1defb!2sVia+Abetone%2C+47%2C+55041+Camaiore+LU!5e0!3m2!1sen!2sit!4v1466599566991" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+         </div>
+      <div class="col-sm-6">
+         <h3>OPPURE, SE PREFERITE, POTETE SCRIVERCI:</h3>
+         <p></p>
+    <div class="container">
+  <form role="form" action="//flipmail.co/api/Vs3peBYjuuxz3NDsEp93" method="post" >
+    <div class="col-md-4">
+      <div class="form-group">
+        <label for="InputName">Nome e Cognome</label>
+        <div class="input-group">
+          <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required>
+          <span class="input-group-addon"></span></div>
+      </div>
+      <div class="form-group">
+        <label for="InputEmail">Indirizzo Email</label>
+        <div class="input-group">
+          <input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Enter Email" required  >
+          <span class="input-group-addon"></span></div>
+      </div>
+      <div class="form-group">
+        <label for="InputMessage">Messaggio</label>
+        <div class="input-group"
+>
+          <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required></textarea>
+          <span class="input-group-addon"></span></div>
+      </div>
+      <div class="form-group">
+        <div class="input-group">
+          <input type="text" class="form-control" name="_gotcha" id="gotcha" style="display:none" /></div>
+          <input type="hidden" name="_next" value="{{ site.baseurl }}thanks.html" />
+      </div>
+      <div class="span7 text-center"> 
+      <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-primary"></div>
+    </div>
+  </form>
+      </div>
+</section>

@@ -1,0 +1,16 @@
+# Footer navigation links
+main:
+  - link: "Chi Siamo"
+    url: /about/
+
+  - link: "Consulenza"
+    url: /visione-sistemica/
+
+  - link: "Formazione"
+    url: /formazione/
+
+  - link: "Blog"
+    url: /articles/
+
+  - link: "Politica dei Cookies"
+    url: /politica-dei-cookies/
