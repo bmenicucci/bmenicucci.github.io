@@ -239,6 +239,15 @@
       &:hover:before {
         transform: scaleX(1); // reveal
       }
+      &:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: 4px;
+        background: $danger-color;
+        width: 100%;
+      }
     }
   }
 
