@@ -1,11 +1,11 @@
 ---
 layout: single
-title: La Visione Sistemica
-permalink: /visione-sistemica/
+title: Focus and Simplicity
+permalink: /theory-of-constraints/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: yin-yang.jpg
+  overlay_image: chain.jpg
 sidebar: 
   nav: moreontls
 category: Theory Of Constraints
