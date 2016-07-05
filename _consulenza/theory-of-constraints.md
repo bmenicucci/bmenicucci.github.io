@@ -5,9 +5,9 @@ permalink: /theory-of-constraints/
 category: Theory Of Constraints
 tag: management
 header:
-  overlay-image: header.jpg
-  overlay-color: "#000"
-  overlay-filter: "0.5"
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: header.jpg
 sidebar:
   nav: moreontls
 ---
