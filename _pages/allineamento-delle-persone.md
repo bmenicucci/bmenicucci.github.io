@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Allineamento delle Persone
 author_profile: false
 header: 

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Focus e Semplicità
 permalink: /theory-of-constraints/
 header:
