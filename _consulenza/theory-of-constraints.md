@@ -1,9 +1,13 @@
 ---
-layout:	single
+layout:	splash
 title: Focus e Semplicità
 permalink: /theory-of-constraints/
 category: Theory Of Constraints
 tag: management
+header:
+  overlay-image: header.png
+  overlay-color: "#000"
+  overlay-filter: "0.5"
 sidebar:
   nav: moreontls
 ---
