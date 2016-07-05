@@ -1,5 +1,4 @@
 ---
-layout:	splash
 title: Chi Siamo
 permalink: /about/
 header:
