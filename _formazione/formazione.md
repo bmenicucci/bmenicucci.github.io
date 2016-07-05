@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: critical-chain.jpg
 sidebar: 
-  nav: moreontls
+  nav: formazione
 category: Formazione
 tag: Formazione
 ---

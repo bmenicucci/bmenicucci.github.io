@@ -42,3 +42,9 @@ moreontls:
 
       - title: "- La Gestione dei Progetti"
         url: /critical-chain-project-management/  
+
+formazione:
+  - title: Approfondimenti
+    children:
+      - title: "- Allineamento delle Persone"
+        url: /allineamento-delle-persone/

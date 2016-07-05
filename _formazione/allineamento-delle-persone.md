@@ -2,11 +2,11 @@
 layout: single
 title: Allineamento delle Persone
 header: 
-  overlay_image: ../images/allineamento.jpg
+  overlay_image: allineamento.jpg
   overlay_filter: "0.3"
 permalink: /allineamento-delle-persone/
 sidebar:
-  nav: moreontls
+  nav: formazione
 category: Change Management
 tag: formazione
 ---
