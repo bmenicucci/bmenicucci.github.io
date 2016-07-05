@@ -218,8 +218,11 @@
         a {
           margin-right: 0;
         }
+      
+      &:li.current a {
+        color: $danger-color;
+        }
       }
-    }
 
     a {
       position: relative;
