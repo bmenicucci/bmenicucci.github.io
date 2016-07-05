@@ -6,6 +6,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: header.jpg
+  cta_label: " "
+  cta_url: ""
+  caption: ""
 sidebar:
   nav: moreontls
 category: Theory Of Constraints
