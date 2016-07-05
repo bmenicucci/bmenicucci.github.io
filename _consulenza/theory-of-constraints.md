@@ -13,6 +13,7 @@ sidebar:
 ---
 {% include toc %}
 
+
 >*Focus and Simplicity... can move mountains.*
 > (Steve Jobs)
 
