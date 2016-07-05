@@ -7,7 +7,7 @@ tag: management
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: {{ base_path }}header.jpg
+  overlay_image: {{ base_path }}/header.jpg
 sidebar:
   nav: moreontls
 ---
