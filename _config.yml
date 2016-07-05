@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 # Site Settings
-url                      : https://bmenicucci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bmenicucci.github.io # the base hostname & protocol for your site e.g.: "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 
 locale                   : "it"
