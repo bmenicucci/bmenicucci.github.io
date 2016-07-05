@@ -5,7 +5,7 @@ permalink: /visione-sistemica/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: ../images/yin-yang.jpg
+  overlay_image: yin-yang.jpg
 sidebar: 
   nav: moreontls
 category: Theory Of Constraints
