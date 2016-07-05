@@ -1,10 +1,16 @@
 ---
-layout:	single
+layout:	splash
 title: Chi Siamo
 permalink: /about/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.8"
+  overlay_image: ../images/about-us.jpg
 sidebar: 
   nav: chisiamo
 vimeoid: 136204836
+category: About us
+tag: M&A
 ---
 
 {% include toc %}
