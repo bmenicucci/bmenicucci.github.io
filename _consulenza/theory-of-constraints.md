@@ -5,7 +5,7 @@ permalink: /theory-of-constraints/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: ../images/bottleneck.jpg
+  overlay_image: bottleneck.jpg
 sidebar: 
   nav: moreontls
 category: Theory Of Constraints
