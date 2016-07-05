@@ -1,14 +1,11 @@
 ---
-layout:	splash
+layout:	single
 title: Focus e Semplicità
 permalink: /theory-of-constraints/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: yin-yang.jpg
-  cta_label: " "
-  cta_url: ""
-  caption: ""
+  overlay_filter: "0.8"
+  overlay_image: bottleneck.jpg
 sidebar:
   nav: moreontls
 category: Theory Of Constraints

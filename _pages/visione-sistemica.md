@@ -1,10 +1,15 @@
 ---
 layout:	single
 title: La Visione Sistemica
-author_profile: false
 permalink: /visione-sistemica/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.8"
+  overlay_image: ../images/yin-yang.jpg
 sidebar: 
   nav: moreontls
+category: Theory Of Constraints
+tag: management
 ---
 {% include toc %}
 

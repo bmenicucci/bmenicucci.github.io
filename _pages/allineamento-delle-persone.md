@@ -3,12 +3,9 @@ layout:	single
 title: Allineamento delle Persone
 author_profile: false
 header: 
-  overlay_image: pic02.jpg
+  overlay_image: allineamento.jpg
   overlay_filter: 0.5
-  cta_label: Contattaci
-  cta_link: /about/
-  caption: caption
-permalink: /allineamento-delle-persone/
+  permalink: /allineamento-delle-persone/
 ---
 
 >Appena trentenni, pochi di loro saranno sulla strada giusta; gli altri trascorrono il tempo in attesa del weekend. Hanno perso l'impegno, il senso della missione e l'entusiasmo degli inizi della loro carriera.
