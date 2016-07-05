@@ -1,12 +1,11 @@
 ---
 layout: single
 title: Allineamento delle Persone
-author_profile: false
 header: 
   overlay_image: ../images/allineamento.jpg
   overlay_filter: "0.3"
-  permalink: /allineamento-delle-persone/
-  sidebar:
+permalink: /allineamento-delle-persone/
+sidebar:
   nav: moreontls
 category: Theory Of Constraints
 tag: management
