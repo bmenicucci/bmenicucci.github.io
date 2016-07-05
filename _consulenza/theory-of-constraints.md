@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: ../images/bottleneck.jpg
-sidebar:
+sidebar: 
   nav: moreontls
 category: Theory Of Constraints
 tag: management
