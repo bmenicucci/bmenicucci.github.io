@@ -1,21 +1,19 @@
 ---
 layout: single
-title: La Visione Sistemica
-permalink: /visione-sistemica/
+title: Focus e Semplicità
+permalink: /theory-of-constraints/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: yin-yang.jpg
+  overlay_image: chain.jpg
 sidebar: 
   nav: moreontls
 category: Theory Of Constraints
 tag: management
 ---
 
-{% include toc %}
-
 >*Focus and Simplicity... can move mountains.*
-> <cite>(Steve Jobs)</cite>
+> (Steve Jobs)
 
 Le imprese, in quanto insieme di elementi interdipendenti orientati a un obiettivo comune, sono sostanzialmente dei "sistemi complessi"[^n]: questo è universalmente accettato. Ciò nonostante le organizzazioni odierne, con qualche rara eccezione, sono strutturate in modo tale che ogni funzione (reparto, centro di costo o di profitto) sia responsabile dei propri risultati, e gestita come se fosse un'entità indipendente, nella convinzione che il risultato finale sia uguale alla somma dei singoli. Di conseguenza ognuno ha il proprio "conto economico", le proprie procedure e indicatori di performance, la maggior parte dei quali creata senza tener conto dell'impatto sul resto della struttura.
 
