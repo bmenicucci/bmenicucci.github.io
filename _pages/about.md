@@ -4,7 +4,7 @@ title: Chi Siamo
 permalink: /about/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.8"
+  overlay_filter: "0.3"
   overlay_image: ../images/about-us.jpg
 sidebar: 
   nav: chisiamo
