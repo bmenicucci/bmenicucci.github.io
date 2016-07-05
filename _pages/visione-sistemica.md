@@ -1,5 +1,4 @@
 ---
-layout:	single
 title: La Visione Sistemica
 permalink: /visione-sistemica/
 header:
