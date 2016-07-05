@@ -2,15 +2,16 @@
 layout:	splash
 title: Focus e Semplicità
 permalink: /theory-of-constraints/
-category: Theory Of Constraints
-tag: management
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /images/header.jpg
 sidebar:
   nav: moreontls
+category: Theory Of Constraints
+tag: management
 ---
+
 {% include toc %}
 
 >*Focus and Simplicity... can move mountains.*
