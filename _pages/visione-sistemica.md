@@ -4,18 +4,19 @@ title: La Visione Sistemica
 permalink: /visione-sistemica/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.8"
+  overlay_filter: "0.3"
   overlay_image: ../images/yin-yang.jpg
 sidebar: 
   nav: moreontls
 category: Theory Of Constraints
 tag: management
 ---
+
 {% include toc %}
 
 >*Ogni miglioramento deriva da un cambiamento, ma non tutti i cambiamenti producono miglioramenti.*
 > (Dr. Eliyahu Goldratt)
-{{ site.navigation.main }}
+
 ## I Sistemi Complessi
 Tutti i **sistemi complessi** sono costituiti da un insieme di attività *interdipendenti* fra loro, una delle quali, in un determinato momento, costituisce **un limite alle prestazioni** del sistema stesso. 
 

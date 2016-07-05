@@ -3,9 +3,13 @@ layout: single
 title: Allineamento delle Persone
 author_profile: false
 header: 
-  overlay_image: allineamento.jpg
-  overlay_filter: 0.5
+  overlay_image: ../images/allineamento.jpg
+  overlay_filter: "0.3"
   permalink: /allineamento-delle-persone/
+  sidebar:
+  nav: moreontls
+category: Theory Of Constraints
+tag: management
 ---
 
 >Appena trentenni, pochi di loro saranno sulla strada giusta; gli altri trascorrono il tempo in attesa del weekend. Hanno perso l'impegno, il senso della missione e l'entusiasmo degli inizi della loro carriera.
