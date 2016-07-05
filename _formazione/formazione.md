@@ -2,6 +2,14 @@
 layout: single
 title: Formazione e Facilitazione
 permalink: /formazione/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: critical-chain.jpg
+sidebar: 
+  nav: moreontls
+category: Formazione
+tag: Formazione
 ---
 
 >*Raggiungere e sostenere nel tempo il successo, richiede un miglioramento continuo di tutte le attività e di tutti i processi gestionali.*

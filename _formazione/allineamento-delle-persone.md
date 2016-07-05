@@ -7,8 +7,8 @@ header:
 permalink: /allineamento-delle-persone/
 sidebar:
   nav: moreontls
-category: Theory Of Constraints
-tag: management
+category: Change Management
+tag: formazione
 ---
 
 >Appena trentenni, pochi di loro saranno sulla strada giusta; gli altri trascorrono il tempo in attesa del weekend. Hanno perso l'impegno, il senso della missione e l'entusiasmo degli inizi della loro carriera.

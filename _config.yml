@@ -117,6 +117,9 @@ collections:
   consulenza:
     output: true
     permalink: /:collection/:path/
+  formazione:
+    output: true
+    permalink: /:collection/:path/
 
 # Plugins
 gems:
