@@ -13,16 +13,6 @@
           {% else %}
             {% assign domain = base_path %}
           {% endif %}
-        {% for item in site.navigation %}
-            {% assign class = nil %}
-            {% if page.url contains item.url %}
-                {% assign class = 'active' %}
-            {% endif %}
-            <a href="{{ item.url }}" class="{{ class }}">
-                {{ item.title }}
-            </a>
-        {% endfor %}
-
           <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>

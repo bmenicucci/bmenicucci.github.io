@@ -48,4 +48,8 @@
     padding-right: 2em;
     font-weight: 700;
   }
+  &__active {
+    position: relative;
+    border-bottom: 1px solid $border-color;
+  }
 }
