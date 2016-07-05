@@ -1,11 +1,11 @@
 ---
 layout: single
 title: Chi Siamo
-permalink: /about/
+permalink: /testimonianze/
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: ../images/about-us.jpg
+  overlay_image: about-us.jpg
 sidebar: 
   nav: chisiamo
 vimeoid: 136204836
