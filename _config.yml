@@ -8,7 +8,7 @@ title                    : "Menicucci & Associati Sas"
 title_separator          : "/"
 name                     : "Brunello Menicucci"
 description              : "Crescere in Modo Sostenibile e Profittevole"
-posturl                  : https://dl.dropboxusercontent.com/u/312263/_Posts/
+claim                    : "Stimoliamo **Persone** per Modificare **Processi** e Aumentare le **Performance**"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
