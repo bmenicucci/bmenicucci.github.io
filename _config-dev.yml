@@ -8,7 +8,7 @@ title                    : "Menicucci & Associati Sas"
 title_separator          : "/"
 name                     : "Brunello Menicucci"
 description              : "Crescere in Modo Sostenibile e Profittevole"
-posturl                  : https://dl.dropboxusercontent.com/u/312263/_Posts/
+claim                    : "Stimoliamo **Persone** per Modificare **Processi** e Aumentare le **Performance**"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -16,7 +16,7 @@ comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
     shortname            : bmenicucci # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-
+    
 # SEO Related
 google_site_verification :
 
@@ -114,9 +114,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  consulenza:
-    output: true
-    permalink: /:collection/:path/
+ # consulenza:
+ #   output: true
+ #   permalink: /:collection/:path/
+ # formazione:
+ #   output: true
+ #   permalink: /:collection/:path/
 
 # Plugins
 gems:
@@ -134,7 +137,7 @@ incremental: false
 # Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: true
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
