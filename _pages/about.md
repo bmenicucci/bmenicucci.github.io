@@ -20,8 +20,8 @@ tag: M&A
  
 ## L'impegno a migliorare continuamente.
 <p markdown="1">Il mondo cambia in continuazione.  Nessun dubbio. Di conseguenza anche le organizzazioni, per continuare a crescere e svilupparsi, devono cambiare. Anzi, devono assumersi l'impegno a  **migliorare** costantemente, e per far questo c’è bisogno di combinare efficacemente le decisioni orientate alla crescita sia nel breve che nel lungo termine.  
-     
-## Da dove partiamo?
+
+## Da dove partiamo?  
 
 Il punto di partenza, per affrontare il cambiamento, non è sempre lo stesso; di volta in volta l'impresa può trovarsi in una delle seguenti fasi:
 
