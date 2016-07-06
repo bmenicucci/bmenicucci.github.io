@@ -89,6 +89,7 @@ defaults:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+slider_array: []
 category_archive:
   type: jekyll-archives
   path: /categories/
