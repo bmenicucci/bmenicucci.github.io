@@ -209,25 +209,25 @@
                 <h3>OPPURE, SE PREFERITE, POTETE SCRIVERCI:</h3>
                 <p></p>
                 <div class="container">
-                    <form role="form" action="//flipmail.co/api/GrgXqZJ2ZRYWomIhl0KU" method="post">
+                    <!-- <form role="form" action="//flipmail.co/api/GrgXqZJ2ZRYWomIhl0KU" method="post">
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="InputName">Nome e Cognome</label>
                                 <div class="input-group">
-                                    <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required="" />
+                                    <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="InputEmail">Indirizzo Email</label>
                                 <div class="input-group">
-                                    <input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Enter Email" required="" />
-                                    <input type="hidden" name="_valid[email]" value="required|valid_email" />
+                                    <input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Enter Email" required>
+                                    <input type="hidden" name="_valid[email]" value="required|valid_email">
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="InputMessage">Messaggio</label>
                                 <div class="input-group">
-                                    <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required=""></textarea>
+                                    <textarea name="InputMessage" id="InputMessage" class="form-control" rows="4" required></textarea>
                                 </div>
                             </div>
                             <div class="form-group">
@@ -235,11 +235,20 @@
                                     <input type="hidden" name="_after" value="http://localhost:4000/thanks" />
                                 </div>
                                 <div class="span7 text-center">
-                                    <input type="file" name="file" />
-                                    <button type="submit">Invia &gt;&gt;</button>
+                                    <button type="submit">Invia >></button>
                                 </div>
                             </div>
                         </div>
+                    </form> -->
+                    <form method="post" action="//flipmail.co/api/GrgXqZJ2ZRYWomIhl0KU">
+                        <input type="hidden" name="_subject" value="Il mio oggetto" />
+                        <input type="hidden" name="_replyto" value="%email" />
+                        <input type="hidden" name="_after" value="http://localhost:4000/thanks" />
+                        <input type="text" name="_honey" value="" style="display:none" />
+                        <input type="text" name="name" placeholder="Your name" />
+                        <input type="email" name="email" placeholder="Your email" />
+                        <textarea name="message" rows="3" placeholder="Your message"></textarea>
+                        <button type="submit">Invia &gt;&gt;</button>
                     </form>
                 </div>
             </div>
