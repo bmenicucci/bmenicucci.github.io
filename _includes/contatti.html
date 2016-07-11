@@ -41,19 +41,19 @@
                 <h3>OPPURE, SE PREFERITE, POTETE SCRIVERCI:</h3>
                 <p></p>
                 <div class="container">
-                    <!-- <form role="form" action="//flipmail.co/api/GrgXqZJ2ZRYWomIhl0KU" method="post">
+                    <form>
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="InputName">Nome e Cognome</label>
                                 <div class="input-group">
-                                    <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Enter Name" required>
+                                    <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Nome e Cognome" required>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="InputEmail">Indirizzo Email</label>
                                 <div class="input-group">
-                                    <input type="email" class="form-control" id="InputEmail" name="InputEmail" placeholder="Enter Email" required>
-                                    <input type="hidden" name="_valid[email]" value="required|valid_email">
+                                    <input type="_replyto" class="form-control" id="InputEmail" name="InputEmail" placeholder="mail@la_mia_azienda.com" required>
+                                    <input type="text" name="_gotcha" style="display:none" />
                                 </div>
                             </div>
                             <div class="form-group">
@@ -64,21 +64,13 @@
                             </div>
                             <div class="form-group">
                                 <div class="input-group">
-                                    <input type="hidden" name="_after" value="{{ site.url }}/thanks" />
+                                    <input type="hidden" name="_next" value="{{ site.url }}/thanks" />
                                 </div>
                                 <div class="span7 text-center">
                                     <button type="submit">Invia >></button>
                                 </div>
                             </div>
                         </div>
-                    </form> -->
-                    <form id="contactform" method="POST">
-                        <input type="text" name="name" placeholder="Your name">
-                        <input type="email" name="_replyto" placeholder="Your email">
-                        <input type="hidden" name="_subject" value="Website contact" />
-                        <textarea name="message" placeholder="Your message"></textarea>
-                        <input type="text" name="_gotcha" style="display:none" />
-                        <input type="submit" value="Send">
                     </form>
                     <script>
                         var contactform =  document.getElementById('contactform');
