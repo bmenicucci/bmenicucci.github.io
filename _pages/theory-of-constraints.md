@@ -15,11 +15,12 @@ sidebar:
 >*Focus and Simplicity... can move mountains.*
 > (Steve Jobs)
 
-Le imprese, in quanto insieme di elementi interdipendenti orientati a un obiettivo comune, sono sostanzialmente dei "sistemi complessi"[^n]: questo è universalmente accettato. Ciò nonostante le organizzazioni odierne, con qualche rara eccezione, sono strutturate in modo tale che ogni funzione (reparto, centro di costo o di profitto) sia responsabile dei propri risultati, e gestita come se fosse un'entità indipendente, nella convinzione che il risultato finale sia uguale alla somma dei singoli. Di conseguenza ognuno ha il proprio "conto economico", le proprie procedure e indicatori di performance, la maggior parte dei quali creata senza tener conto dell'impatto sul resto della struttura.
+## Focus e Semplicità
+Le imprese, in quanto insieme di elementi interdipendenti orientati a un obiettivo comune, sono sostanzialmente dei "sistemi complessi"[^n]: questo è universalmente accettato. Ciò nonostante le organizzazioni odierne, con qualche rara eccezione, sono strutturate in modo tale che ogni funzione (reparto, centro di costo o di profitto) sia responsabile dei propri risultati, e gestita come se fosse un'entità indipendente, nella convinzione che il risultato finale sia **uguale alla somma dei singoli**. Di conseguenza ognuno ha il proprio "conto economico", le proprie procedure e indicatori di performance, la maggior parte dei quali creata senza tener conto dell'impatto sul resto della struttura.
 
 
 ## La Teoria dei Vincoli
-La *Theory Of Constraints* ("ToC"), è una "filosofia sistemica", sviluppata intorno alla metà degli anni '80 dal fisico israeliano Elyiahu Goldratt, relativa al modo di gestire le organizzazioni che si basa su una logica stringente di causa-effetto. Quali sono i pilastri di questa metodologia? L'assunto di base è che le organizzazioni, in quanto sistemi, in un dato momento hanno almeno un elemento (vincolo) che ne limita le performance.
+La *Theory Of Constraints* ("ToC"), è una "filosofia sistemica", sviluppata intorno alla metà degli anni '80 dal fisico israeliano Eliyahu Goldratt, relativa al modo di gestire le organizzazioni che si basa su una logica stringente di causa-effetto. Quali sono i pilastri di questa metodologia? L'assunto di base è che le organizzazioni, in quanto sistemi, in un dato momento hanno almeno un elemento (vincolo) che ne limita le performance.
 
 La "prova" logica di questa affermazione sta nel suo contrario: se un sistema (o una organizzazione) non avesse nessun limite, le sue performance sarebbero **infinite**. Di conseguenza, poiché questo tipicamente non è vero, il sistema deve avere almeno un limite.
 

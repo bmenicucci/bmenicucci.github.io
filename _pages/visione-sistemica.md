@@ -1,10 +1,8 @@
 ---
-layout: single
 title: La Visione Sistemica
 permalink: /visione-sistemica/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: yin-yang.jpg
 sidebar: 
   nav: moreontls

@@ -3,8 +3,7 @@ layout: single
 title: About Us
 permalink: /about/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: about-us.jpg
 sidebar: 
   nav: chisiamo
@@ -17,11 +16,16 @@ tag: M&A
 
 >"Il cambiamento, con tutti i rischi che comporta, è la legge dell'esistenza".
 ><cite>Robert F. Kennedy</cite>
+
+{%if page.header.image %}
+{% capture overlay_img_path %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endcapture %}
+Ecco il percorso: {{ page.header.img_path }} della pic {{ page.header.image }}
+{% endif %}
  
 ## L'impegno a migliorare continuamente.
 <p markdown="1">Il mondo cambia in continuazione.  Nessun dubbio. Di conseguenza anche le organizzazioni, per continuare a crescere e svilupparsi, devono cambiare. Anzi, devono assumersi l'impegno a  **migliorare** costantemente, e per far questo c’è bisogno di combinare efficacemente le decisioni orientate alla crescita sia nel breve che nel lungo termine.  
-     
-## Da dove partiamo?
+
+## Da dove partiamo?  
 
 Il punto di partenza, per affrontare il cambiamento, non è sempre lo stesso; di volta in volta l'impresa può trovarsi in una delle seguenti fasi:
 

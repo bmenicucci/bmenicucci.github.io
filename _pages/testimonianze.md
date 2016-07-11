@@ -3,8 +3,7 @@ layout: single
 title: Chi Siamo
 permalink: /testimonianze/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: about-us.jpg
 sidebar: 
   nav: chisiamo

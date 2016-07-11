@@ -4,16 +4,8 @@ layout: default
 
 {% include base_path %}
 
-{% if page.carousel %}
-  <div class="flexslider">
-    <ul class="slides">
-      {% for slides in page.carousel %}
-      <li>
-        <img src="{{ slides.image }}">
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
+{% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
+  {% include page__hero.html %}
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
@@ -40,6 +32,7 @@ layout: default
           {% endif %}
         </header>
       {% endunless %}
+
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label }}</a></div>{% endif %}
