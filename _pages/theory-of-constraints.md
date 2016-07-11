@@ -10,6 +10,7 @@ tag: management
 sidebar:
   nav: moreontls
 ---
+
 {% include toc %}
 
 >*Focus and Simplicity... can move mountains.*
