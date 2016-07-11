@@ -1,10 +1,10 @@
 ---
 layout: single
 title: Allineamento delle Persone
-header: 
-  overlay_image: allineamento.jpg
-  overlay_filter: "0.3"
 permalink: /allineamento-delle-persone/
+header:
+  overlay_filter: rgba(235,235,235, 0.5)
+  overlay_image: allineamento.jpg
 sidebar:
   nav: formazione
 category: Change Management

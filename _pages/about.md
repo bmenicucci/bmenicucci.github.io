@@ -3,7 +3,8 @@ layout: single
 title: About Us
 permalink: /about/
 header:
-  image: /images/about-us.jpg
+  overlay_filter: rgba(235,235,235, 0.5)
+  overlay_image: about-us.jpg
 sidebar: 
   nav: chisiamo
 vimeoid: 136204836

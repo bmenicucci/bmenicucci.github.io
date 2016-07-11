@@ -3,8 +3,7 @@ layout:		single
 titolo:		Il Throughput Accounting
 permalink: /il-throughput-accounting/
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: chain.jpg
 sidebar: 
   nav: moreontls
