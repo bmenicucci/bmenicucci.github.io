@@ -3,7 +3,11 @@ layout: single
 title: Il Controllo di Gestione
 author_profile: false
 permalink: /il-controllo-di-gestione/
+sidebar: 
+  nav: moreontls
 ---
+
+{% include toc %}
 
 <p class="text-muted">Il sistema di controllo di gestione è come una bussola; per supportare efficacemente la Direzione, si basa prima di tutto sulla definizione di dove vogliamo andare (gli obiettivi strategici, coerenti con il sistema di vision, mission e valori dell’azienda) in modo da “remare tutti nella stessa direzione“.il controllo di gestione 
 Su questa base si definiscono una serie di obiettivi di breve termine e si analizzano i processi, in modo da rendere il più possibile efficace ed efficiente l’organizzazione aziendale.

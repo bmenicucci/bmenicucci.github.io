@@ -17,3 +17,10 @@ tag: M&A
 ---
 
 Ecco il team:
+<div class="slider multiple-items slick-initialized slick-slider slick-dotted">
+    <ul class="slick-slide slick-active">
+      		<li><img src="../images/pic01.jpg"></li>
+      		<li><img src="../images/pic02.jpg"></li>
+      		<li><img src="../images/pic03.jpg"></li>
+    </ul>
+</div>
