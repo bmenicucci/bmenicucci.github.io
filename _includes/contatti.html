@@ -65,7 +65,7 @@
                                     <textarea name="InputMessage" id="InputMessage" class="form-control" rows="4" required></textarea>
                                 </div>
                             </div>
-                                <div class="span3 text-center">
+                                <div class="span7 text-left">
                                     <button type="submit">Invia >></button>
                                 </div>
                             </div>
@@ -85,15 +85,15 @@
                                     data: $(this).serialize(),
                                     dataType: 'json',
                                     beforeSend: function() {
-                                        $contactForm.append('<div class="alert alert--loading">Invio il messaggio…</div>');
+                                        $contactForm.append('<div class="alert alert-success">Invio il messaggio…</div>');
                                     },
                                     success: function(data) {
                                         $contactForm.find('.alert--loading').hide();
-                                        $contactForm.append('<div class="alert alert--success">Messaggio inviato!</div>');
+                                        $contactForm.append('<div class="alert alert-success">Messaggio inviato!</div>');
                                     },
                                     error: function(err) {
                                         $contactForm.find('.alert--loading').hide();
-                                        $contactForm.append('<div class="alert alert--error">Oops! Correggi gli errori e riprova</div>');
+                                        $contactForm.append('<div class="alert alert-danger">Oops! Correggi gli errori e riprova</div>');
                                     }
                                 });
                             });
