@@ -5,7 +5,7 @@ author_profile: false
 permalink: /il-controllo-di-gestione/
 header:
   overlay_filter: rgba(235,235,235, 0.5)
-  overlay_image: chain.jpg
+  overlay_image: bussola.jpg
 sidebar: 
   nav: moreontls
 ---
