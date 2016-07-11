@@ -1,7 +1,10 @@
 ---
 layout:	single
-title: Focus e Semplicità
+title: Theory of Constraints
 permalink: /theory-of-constraints/
+header:
+  overlay_filter: rgba(235,235,235, 0.5)
+  overlay_image: chain.jpg
 category: Theory Of Constraints
 tag: management
 sidebar:
