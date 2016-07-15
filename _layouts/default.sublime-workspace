@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"google",
+				"google_plus"
+			],
+			[
+				"B",
+				"BrunelloMenicucciCMC"
+			],
+			[
+				"s",
+				"sys"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"th",
+				"theme-dark"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-awesome"
+			],
+			[
+				"linkedin",
+				"linkedin"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "h",
+		"selected_items":
+		[
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bmenicucci/Sites/website/_layouts/default.html",
+		"/Users/bmenicucci/Sites/website/_includes/masthead.html",
+		"/Users/bmenicucci/simpl4/bin/setup.sh",
+		"/Users/bmenicucci/Sites/website/_includes/page__hero.html",
+		"/Users/bmenicucci/Sites/website/_includes/contatti.html",
+		"/Users/bmenicucci/Sites/website/_includes/seo.html",
+		"/Users/bmenicucci/Sites/website/index.html",
+		"/Users/bmenicucci/Sites/website/_pages/contatti.md",
+		"/Users/bmenicucci/Sites/website/_config-dev.yml",
+		"/Users/bmenicucci/Sites/website/_config.yml",
+		"/Users/bmenicucci/Sites/website/_includes/head.html",
+		"/Users/bmenicucci/Sites/website/_includes/formajax.html",
+		"/Users/bmenicucci/Sites/website/_layouts/single.html",
+		"/Users/bmenicucci/Sites/website/_pages/theory-of-constraints.md",
+		"/Users/bmenicucci/Sites/website/_includes/head/custom.html",
+		"/Users/bmenicucci/Sites/website/_includes/contact.html",
+		"/Users/bmenicucci/Sites/website/_includes/contacts.html",
+		"/Users/bmenicucci/Sites/website/_includes/consultaci.html",
+		"/Users/bmenicucci/Sites/website/assets/js/bootstrap.min.js",
+		"/Users/bmenicucci/Sites/website/assets/js/app.js",
+		"/Users/bmenicucci/Sites/website/_layouts/splash.html",
+		"/Users/bmenicucci/Sites/website/_includes/feature_row",
+		"/Users/bmenicucci/Sites/website.io/_layouts/splash.html",
+		"/Users/bmenicucci/Sites/website.io/_layouts/default.html",
+		"/Users/bmenicucci/Sites/website.io/_layouts/single.html",
+		"/Users/bmenicucci/Sites/website.io/index.html",
+		"/Users/bmenicucci/Sites/bmenicucci.github.io/_data/navigation.yml",
+		"/Users/bmenicucci/Sites/bmenicucci.github.io/_config.yml",
+		"/Users/bmenicucci/Sites/bmenicucci.github.io/_includes/masthead.html",
+		"/Users/bmenicucci/Sites/bmenicucci.github.io/assets/_scss/_navigation.scss",
+		"/Users/bmenicucci/Sites/bmenicucci.github.io/package.json",
+		"/Users/bmenicucci/Sites/bmenicucci.github.io/params.json",
+		"/Users/bmenicucci/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/bmenicucci/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/bmenicucci/Sites/menicuccisas/_layouts/splash.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/vimeo.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/youtube.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_config-dev.yml",
+		"/Users/bmenicucci/Sites/menicuccisas/_config.yml",
+		"/Users/bmenicucci/Sites/menicuccisas/_data/navigation.yml",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_navigation.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/_layouts/archive-taxonomy.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_layouts/single.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/sidebar.html",
+		"/Users/bmenicucci/Sites/menicuccisas/public/firebase.json",
+		"/Users/bmenicucci/Sites/minimal-mistakes-3.2.12/_includes/nav_list",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/head/custom.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_pages/contatti.html",
+		"/Users/bmenicucci/Sites/menicuccisas/index.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/head.html",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_sidebar.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_base.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/main.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/js/bigfoot.js",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/toc",
+		"/Users/bmenicucci/Sites/minimal-mistakes-gh-pages/_config.yml",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/toc1",
+		"/Users/bmenicucci/Sites/minimal-mistakes-gh-pages/assets/_scss/_navigation.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-gh-pages/assets/_scss/_base.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/toc",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/page__hero.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/masthead.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_pages/il-controllo-di-gestione.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_site/firebase.json",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/nav_list",
+		"/Users/bmenicucci/Sites/creative-theme-jekyll-master/_includes/portfolio.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_pages/contact.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/footer/custom.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/presentazione.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_layouts/default.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/footer.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/footer/prefooter.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_data/bottom.yml",
+		"/Users/bmenicucci/Sites/menicuccisas/blog/index.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/page__taxonomy.html",
+		"/Users/bmenicucci/Sites/menicuccisas/postindex.html",
+		"/Users/bmenicucci/Sites/hugosite/themes/hugo-base-theme/config.toml",
+		"/Users/bmenicucci/Sites/ruho/config.yml",
+		"/Users/bmenicucci/Sites/ruho/theme-bootstrap/data.yml",
+		"/Users/bmenicucci/Sites/ruho/theme-bootstrap-2/data.yml",
+		"/Users/bmenicucci/Sites/menicuccisas/_layouts/archive.html",
+		"/Users/bmenicucci/Sites/ruho/Gemfile",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_variables.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_masthead.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_footer.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_archive.scss",
+		"/Users/bmenicucci/Sites/skinny-bones-jekyll-master/_sass/_layout.scss",
+		"/Users/bmenicucci/Sites/skinny-bones-jekyll-master/_sass/_base.scss",
+		"/Users/bmenicucci/Sites/skinny-bones-jekyll-master/_sass/_menu-navicons.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/_data/footer.yml",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/comments-providers/disqus.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/social-share.html",
+		"/Users/bmenicucci/Sites/menicuccisas/articles/index.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_plugins/ext.rb",
+		"/Users/bmenicucci/Sites/menicuccisas/Gemfile",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/Gemfile.lock",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/contacts.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/paginator.html",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_page.scss",
+		"/Users/bmenicucci/Dropbox/Sistema KPI - Caen/jxProject/jxProjectStart.sh",
+		"/Users/bmenicucci/Sites/menicuccisas/_data/ui-text.yml",
+		"/Users/bmenicucci/Sites/skinny-bones-jekyll-master/_includes/footer.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/breadcrumbs.html",
+		"/Users/bmenicucci/Sites/skinny-bones-jekyll-master/_layouts/default.html",
+		"/Users/bmenicucci/Sites/skinny-bones-jekyll-master/_data/footer.yml",
+		"/Users/bmenicucci/Sites/skinny-bones-jekyll-master/_data/messages.yml",
+		"/Users/bmenicucci/Sites/skinny-bones-jekyll-master/_data/navigation.yml",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/index.html",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/_scss/_buttons.scss",
+		"/Users/bmenicucci/Sites/menicuccisas/assets/css/main.css",
+		"/Users/bmenicucci/Sites/website/_includes/nav.html",
+		"/Users/bmenicucci/Sites/website/_includes/header.html",
+		"/Users/bmenicucci/Sites/menicuccisas/_includes/post_pagination.html",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/_includes/paginator.html",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/_variables.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/vendor/susy/susy/output/support/_box-sizing.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/vendor/susy/susy/output/float/_span.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/vendor/susy/susy/su/_utilities.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/vendor/susy/susy/su/_grid.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/_sidebar.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/main.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/vendor/susy/susy/output/float/_container.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/vendor/susy/_susy.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/vendor/breakpoint/_settings.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/vendor/breakpoint/_breakpoint.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/_mixins.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/_footer.scss",
+		"/Users/bmenicucci/Sites/minimal-mistakes-master/assets/_scss/_forms.scss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/bmenicucci/Sites/website/_includes",
+			"/Users/bmenicucci/Sites/website/_layouts",
+			"/Users/bmenicucci/Sites/website/assets",
+			"/Users/bmenicucci/Sites/website",
+			"/Users/bmenicucci/Sites/menicuccisas/assets/_scss",
+			"/Users/bmenicucci/Sites/website/",
+			"/Users/bmenicucci/Sites/menicuccisas/",
+			"/Users/bmenicucci/Sites/menicuccisas/assets/_scss",
+			"/Users/bmenicucci/Sites/menicuccisas/assets",
+			"/Users/bmenicucci/Sites/website,/Users/bmenicucci/Sites/menicuccisas/assets",
+			"/Users/bmenicucci/Sites/website",
+			"/Users/bmenicucci/Sites/menicuccisas/",
+			"/Users/bmenicucci/Sites/minimal-mistakes-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Be a better developer",
+			"jquery-1.11",
+			"Menicucci & Associati Sas",
+			"safe",
+			"jquery-1.11.0",
+			"right-sidebar-width-wide",
+			"pagination",
+			"favicon.png",
+			"YOU MAY ALSO ENJOY",
+			"sidebar",
+			"@include(span",
+			".content",
+			"visible-links",
+			"masthead-link-color-hover",
+			"masthead__menu-item",
+			"masthead_menu",
+			"masthead-menu",
+			"primary",
+			"brooklyn/style.css",
+			"^\\---*\\---",
+			"---\nID*\n---",
+			"---\nID:* ---",
+			"---\nID:*",
+			"nevada_metapanel:\n  - 'a:10:{s:16:\"lambda_page_item\";a:1:{i:0;a:3:{s:19:\"testimonialcarousel\";s:1:\"0\";s:7:\"sidebar\";s:22:\"nevada_sidebar_default\";s:16:\"home_client_page\";s:1:\"0\";}}s:7:\"sidebar\";s:19:\"nevada_sidebar_none\";s:14:\"sidebar_second\";s:22:\"nevada_sidebar_default\";s:13:\"sidebar_align\";s:5:\"right\";s:15:\"background_type\";s:12:\"default_none\";s:24:\"default_backgroundslider\";s:8:\"lambda_4\";s:17:\"home_service_page\";s:1:\"0\";s:21:\"home_testimonial_page\";s:1:\"0\";s:16:\"home_client_page\";s:1:\"0\";s:9:\"home_item\";a:6:{i:0;s:7:\"service\";i:1;s:9:\"portfolio\";i:2;s:4:\"blog\";i:3;s:12:\"testimonials\";i:4;s:7:\"clients\";i:5;s:3:\"cta\";}}'\n  - 'a:10:{s:16:\"lambda_page_item\";a:1:{i:0;a:3:{s:19:\"testimonialcarousel\";s:1:\"0\";s:7:\"sidebar\";s:22:\"nevada_sidebar_default\";s:16:\"home_client_page\";s:1:\"0\";}}s:7:\"sidebar\";s:19:\"nevada_sidebar_none\";s:14:\"sidebar_second\";s:22:\"nevada_sidebar_default\";s:13:\"sidebar_align\";s:5:\"right\";s:15:\"background_type\";s:12:\"default_none\";s:24:\"default_backgroundslider\";s:8:\"lambda_4\";s:17:\"home_service_page\";s:1:\"0\";s:21:\"home_testimonial_page\";s:1:\"0\";s:16:\"home_client_page\";s:1:\"0\";s:9:\"home_item\";a:6:{i:0;s:7:\"service\";i:1;s:9:\"portfolio\";i:2;s:4:\"blog\";i:3;s:12:\"testimonials\";i:4;s:7:\"clients\";i:5;s:3:\"cta\";}}'\n  - 'a:10:{s:16:\"lambda_page_item\";a:1:{i:0;a:3:{s:19:\"testimonialcarousel\";s:1:\"0\";s:7:\"sidebar\";s:22:\"nevada_sidebar_default\";s:16:\"home_client_page\";s:1:\"0\";}}s:7:\"sidebar\";s:19:\"nevada_sidebar_none\";s:14:\"sidebar_second\";s:22:\"nevada_sidebar_default\";s:13:\"sidebar_align\";s:5:\"right\";s:15:\"background_type\";s:12:\"default_none\";s:24:\"default_backgroundslider\";s:8:\"lambda_4\";s:17:\"home_service_page\";s:1:\"0\";s:21:\"home_testimonial_page\";s:1:\"0\";s:16:\"home_client_page\";s:1:\"0\";s:9:\"home_item\";a:6:{i:0;s:7:\"service\";i:1;s:9:\"portfolio\";i:2;s:4:\"blog\";i:3;s:12:\"testimonials\";i:4;s:7:\"clients\";i:5;s:3:\"cta\";}}'\n  - 'a:10:{s:16:\"lambda_page_item\";a:1:{i:0;a:3:{s:19:\"testimonialcarousel\";s:1:\"0\";s:7:\"sidebar\";s:22:\"nevada_sidebar_default\";s:16:\"home_client_page\";s:1:\"0\";}}s:7:\"sidebar\";s:19:\"nevada_sidebar_none\";s:14:\"sidebar_second\";s:22:\"nevada_sidebar_default\";s:13:\"sidebar_align\";s:5:\"right\";s:15:\"background_type\";s:12:\"default_none\";s:24:\"default_backgroundslider\";s:8:\"lambda_4\";s:17:\"home_service_page\";s:1:\"0\";s:21:\"home_testimonial_page\";s:1:\"0\";s:16:\"home_client_page\";s:1:\"0\";s:9:\"home_item\";a:6:{i:0;s:7:\"service\";i:1;s:9:\"portfolio\";i:2;s:4:\"blog\";i:3;s:12:\"testimonials\";i:4;s:7:\"clients\";i:5;s:3:\"cta\";}}'",
+			"ul.dropdown",
+			"ul.dropdownmenu",
+			"navbar-default",
+			"shrink",
+			"navbar-shrink",
+			"transparent",
+			"nav",
+			"navbar",
+			"/assets/img/header.jpg",
+			"background-cover",
+			"/assets/img",
+			".navbar",
+			".navbar-header",
+			".navbar",
+			"theme-dark",
+			"bg-dark",
+			"/consulenza/",
+			"strategia",
+			"dropdown-toggle",
+			".site-navigation",
+			"base_path",
+			".navbar-brand",
+			".img-responsive",
+			"dropdown",
+			"background-cover",
+			"header",
+			"footerwrap",
+			"footer-wrap",
+			"opacity",
+			"css",
+			"btn",
+			"nav",
+			"java_HOME"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"nevada_metapanel:\n  - 'a:10:{s:16:\"lambda_page_item\";a:1:{i:0;a:3:{s:19:\"testimonialcarousel\";s:1:\"0\";s:7:\"sidebar\";s:22:\"nevada_sidebar_default\";s:16:\"home_client_page\";s:1:\"0\";}}s:7:\"sidebar\";s:19:\"nevada_sidebar_none\";s:14:\"sidebar_second\";s:22:\"nevada_sidebar_default\";s:13:\"sidebar_align\";s:5:\"right\";s:15:\"background_type\";s:12:\"default_none\";s:24:\"default_backgroundslider\";s:8:\"lambda_4\";s:17:\"home_service_page\";s:1:\"0\";s:21:\"home_testimonial_page\";s:1:\"0\";s:16:\"home_client_page\";s:1:\"0\";s:9:\"home_item\";a:6:{i:0;s:7:\"service\";i:1;s:9:\"portfolio\";i:2;s:4:\"blog\";i:3;s:12:\"testimonials\";i:4;s:7:\"clients\";i:5;s:3:\"cta\";}}'\n  - 'a:10:{s:16:\"lambda_page_item\";a:1:{i:0;a:3:{s:19:\"testimonialcarousel\";s:1:\"0\";s:7:\"sidebar\";s:22:\"nevada_sidebar_default\";s:16:\"home_client_page\";s:1:\"0\";}}s:7:\"sidebar\";s:19:\"nevada_sidebar_none\";s:14:\"sidebar_second\";s:22:\"nevada_sidebar_default\";s:13:\"sidebar_align\";s:5:\"right\";s:15:\"background_type\";s:12:\"default_none\";s:24:\"default_backgroundslider\";s:8:\"lambda_4\";s:17:\"home_service_page\";s:1:\"0\";s:21:\"home_testimonial_page\";s:1:\"0\";s:16:\"home_client_page\";s:1:\"0\";s:9:\"home_item\";a:6:{i:0;s:7:\"service\";i:1;s:9:\"portfolio\";i:2;s:4:\"blog\";i:3;s:12:\"testimonials\";i:4;s:7:\"clients\";i:5;s:3:\"cta\";}}'\n  - 'a:10:{s:16:\"lambda_page_item\";a:1:{i:0;a:3:{s:19:\"testimonialcarousel\";s:1:\"0\";s:7:\"sidebar\";s:22:\"nevada_sidebar_default\";s:16:\"home_client_page\";s:1:\"0\";}}s:7:\"sidebar\";s:19:\"nevada_sidebar_none\";s:14:\"sidebar_second\";s:22:\"nevada_sidebar_default\";s:13:\"sidebar_align\";s:5:\"right\";s:15:\"background_type\";s:12:\"default_none\";s:24:\"default_backgroundslider\";s:8:\"lambda_4\";s:17:\"home_service_page\";s:1:\"0\";s:21:\"home_testimonial_page\";s:1:\"0\";s:16:\"home_client_page\";s:1:\"0\";s:9:\"home_item\";a:6:{i:0;s:7:\"service\";i:1;s:9:\"portfolio\";i:2;s:4:\"blog\";i:3;s:12:\"testimonials\";i:4;s:7:\"clients\";i:5;s:3:\"cta\";}}'\n  - 'a:10:{s:16:\"lambda_page_item\";a:1:{i:0;a:3:{s:19:\"testimonialcarousel\";s:1:\"0\";s:7:\"sidebar\";s:22:\"nevada_sidebar_default\";s:16:\"home_client_page\";s:1:\"0\";}}s:7:\"sidebar\";s:19:\"nevada_sidebar_none\";s:14:\"sidebar_second\";s:22:\"nevada_sidebar_default\";s:13:\"sidebar_align\";s:5:\"right\";s:15:\"background_type\";s:12:\"default_none\";s:24:\"default_backgroundslider\";s:8:\"lambda_4\";s:17:\"home_service_page\";s:1:\"0\";s:21:\"home_testimonial_page\";s:1:\"0\";s:16:\"home_client_page\";s:1:\"0\";s:9:\"home_item\";a:6:{i:0;s:7:\"service\";i:1;s:9:\"portfolio\";i:2;s:4:\"blog\";i:3;s:12:\"testimonials\";i:4;s:7:\"clients\";i:5;s:3:\"cta\";}}'",
+			"navbar-inpages",
+			"default",
+			"{{ site.imgpath }}",
+			"/",
+			"/consulenza/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "default.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
