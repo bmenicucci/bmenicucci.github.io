@@ -19,6 +19,15 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" class="{{ class }}">{{ link.title }}</a></li>
           {% endfor %}
+          <div class="grid" id="searchBar">
+            <div id="search">
+             <form role="search" method="get" action="{{site.baseurl}}/search/">
+                 <input id="searchString" name="searchString"
+                        placeholder="Be a Better Developer, etc." type="text">
+                 <input id="searchButton" name="googleSearchName" type="submit" value="Search">
+             </form>
+            </div>
+         </div>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
