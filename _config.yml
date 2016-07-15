@@ -4,7 +4,7 @@ url                      : https://menicucci.co # the base hostname & protocol f
 baseurl                  : # the subpath of your site, e.g. "/blog"
 
 locale                   : "it"
-title                    : "Menicucci & Associati Sas"
+title                    : "Consulenti di Management"
 title_separator          : "/"
 name                     : "Brunello Menicucci"
 description              : "Crescere in Modo Sostenibile e Profittevole"
