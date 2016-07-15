@@ -18,7 +18,7 @@ comments:
     shortname            : bmenicucci # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
     
 # SEO Related
-google_site_verification :
+google_site_verification : "3HSeLrF7fmpp6RjeU1e93TTBJpVnO0RK2wvo_n4CIZc"
 
 # Social Sharing
 twitter:
@@ -38,9 +38,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-29374310-1
 
 # Site Author
 author:

@@ -16,6 +16,14 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    {% if page.slider_active %}
+	  <!-- Slider -->
+	  <script src="{{ site.baseurl }}/assets/iislider/ideal-image-slider.js"></script>
+		<script>
+		var slider = new IdealImageSlider.Slider('#slider');
+		slider.start();
+		</script>
+
     {{ content }}
 
     <div class="page__footer">
