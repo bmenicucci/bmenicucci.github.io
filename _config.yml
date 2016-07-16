@@ -4,7 +4,7 @@ url                      : https://bmenicucci.github.io # the base hostname & pr
 baseurl                  : # the subpath of your site, e.g. "/blog"
 
 locale                   : "it"
-title                    : "Consulenti di Management"
+title                    : "Menicucci & Associati"
 title_separator          : "/"
 name                     : "Brunello Menicucci"
 description              : "Crescere in Modo Sostenibile e Profittevole"
