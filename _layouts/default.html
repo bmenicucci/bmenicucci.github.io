@@ -16,28 +16,6 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-      <!-- Slider -->
-      <script src="{{ base_path }}/assets/js/slider.js"></script>
-      <script src="{{ base_path }}/assets/js/iis-captions.js"></script>
-      <script type="text/javascript">
-              var slider = new IdealImageSlider.Slider({
-              selector: '#slider',
-              height: 400, // Required but can be set by CSS
-              interval: 4000
-              });
-              slider.start();
-      </script>"
-      <!-- Sliders on pages -->
-      {% for script in page.slider_scripts %}
-        {{ script }}
-      {% endfor %}
-      <!-- Sliders on indexes -->
-      {% for post in paginator.posts %}
-        {% for script in post.slider_scripts %}
-          {{ script }}
-        {% endfor %}
-      {% endfor %}
-
     {{ content }}
 
     <div class="page__footer">

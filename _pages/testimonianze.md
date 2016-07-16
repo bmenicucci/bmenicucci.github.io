@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Chi Siamo
+title: Dicono di noi...
 permalink: /testimonianze/
 header:
   overlay_filter: rgba(235,235,235, 0.5)
