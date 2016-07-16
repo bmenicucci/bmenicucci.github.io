@@ -60,7 +60,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2016-07-15T22:31:01+02:00">
+  <meta property="article:published_time" content="2016-07-16T16:20:53+02:00">
   
   
 
@@ -116,12 +116,12 @@
 	);
 </script>
 
-  <!-- Slider CSS -->
-  	<link rel="stylesheet" href="http://localhost:4000/assets/iis/ideal-image-slider.css">
-	<link rel="stylesheet" href="http://localhost:4000/assets/iis/themes/default/default.css">
-
 <!-- <link rel="shortcut icon" type="image/png" href="/favicon.png" > -->
 <link rel="icon" href="/favicon.png" >
+
+		<!-- Slider CSS -->
+	  	<link rel="stylesheet" href="http://localhost:4000/assets/css/slider.css">
+		<link rel="stylesheet" href="http://localhost:4000/assets/css/theme.css">
 
 <!-- end custom head snippets -->
 
@@ -189,8 +189,16 @@
 </div>
 
       <!-- Slider -->
-      <script src="http://localhost:4000/assets/iss/slider.js"></script>
-      <script src="http://localhost:4000/assets/iss/extensions/captions/iis-captions.js"></script>
+      <script src="http://localhost:4000/assets/js/slider.js"></script>
+      <script src="http://localhost:4000/assets/js/iis-captions.js"></script>
+      <script type="text/javascript">
+              var slider = new IdealImageSlider.Slider({
+              selector: '#slider',
+              height: 400, // Required but can be set by CSS
+              interval: 4000
+              });
+              slider.start();
+      </script>"
       <!-- Sliders on pages -->
       
       <!-- Sliders on indexes -->
@@ -271,7 +279,7 @@
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     <meta itemprop="headline" content="Il Cruscotto Direzionale">
     <meta itemprop="description" content="Creazione di uno strumento di supporto alle decisioni.">
-    <meta itemprop="datePublished" content="July 15, 2016">
+    <meta itemprop="datePublished" content="July 16, 2016">
     
 
     <div class="page__inner-wrap">
@@ -342,7 +350,7 @@ Per saperne di più contattaci inviando un mail a <a href="&#109;&#097;&#105;&#1
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Ultimo aggiornamento:</strong> <time datetime="2016-07-15T22:31:01+02:00">July 15, 2016</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Ultimo aggiornamento:</strong> <time datetime="2016-07-16T16:20:53+02:00">July 16, 2016</time></p>
         
       </footer>
 

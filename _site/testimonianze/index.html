@@ -55,7 +55,7 @@
 
 
 
-  <meta property="og:image" content="http://localhost:4000/images/about-us.jpg">
+  <meta property="og:image" content="http://localhost:4000/images/testimonials.jpg">
 
 
 
@@ -111,12 +111,12 @@
 	);
 </script>
 
-  <!-- Slider CSS -->
-  	<link rel="stylesheet" href="http://localhost:4000/assets/iis/ideal-image-slider.css">
-	<link rel="stylesheet" href="http://localhost:4000/assets/iis/themes/default/default.css">
-
 <!-- <link rel="shortcut icon" type="image/png" href="/favicon.png" > -->
 <link rel="icon" href="/favicon.png" >
+
+		<!-- Slider CSS -->
+	  	<link rel="stylesheet" href="http://localhost:4000/assets/css/slider.css">
+		<link rel="stylesheet" href="http://localhost:4000/assets/css/theme.css">
 
 <!-- end custom head snippets -->
 
@@ -184,8 +184,16 @@
 </div>
 
       <!-- Slider -->
-      <script src="http://localhost:4000/assets/iss/slider.js"></script>
-      <script src="http://localhost:4000/assets/iss/extensions/captions/iis-captions.js"></script>
+      <script src="http://localhost:4000/assets/js/slider.js"></script>
+      <script src="http://localhost:4000/assets/js/iis-captions.js"></script>
+      <script type="text/javascript">
+              var slider = new IdealImageSlider.Slider({
+              selector: '#slider',
+              height: 400, // Required but can be set by CSS
+              interval: 4000
+              });
+              slider.start();
+      </script>"
       <!-- Sliders on pages -->
       
       <!-- Sliders on indexes -->
@@ -205,7 +213,7 @@
 
 
 <div class="page__hero--overlay"
-  style=" background-image: linear-gradient(rgba(235,235,235, 0.5), rgba(235,235,235, 0.5)), url('http://localhost:4000/images/about-us.jpg');"
+  style=" background-image: linear-gradient(rgba(235,235,235, 0.5), rgba(235,235,235, 0.5)), url('http://localhost:4000/images/testimonials.jpg');"
 >
   
     <div class="wrapper">
@@ -319,38 +327,16 @@
       
 
       <section class="page__content" itemprop="text">
-        <aside class="sidebar__right">
-<nav class="toc">
-    <header><h4 class="nav__title"><i class="fa fa-file-text"></i> Contenuto:</h4></header>
-<ul class="toc__menu" id="markdown-toc">
-  <li><a href="#limpegno-a-migliorare-continuamente" id="markdown-toc-limpegno-a-migliorare-continuamente">L’impegno a migliorare continuamente.</a></li>
-  <li><a href="#cosa-facciamo-in-90-secondi" id="markdown-toc-cosa-facciamo-in-90-secondi">Cosa Facciamo, in 90 secondi!</a></li>
-</ul>
-
-  </nav>
-</aside>
-
-<blockquote>
+        <blockquote>
   <p><em>Raggiungere e sostenere nel tempo il successo, richiede un miglioramento continuo di tutte le attività e di tutti i processi gestionali.</em>
 <cite>J.A. Brimson - J. Antos (1994)</cite></p>
 </blockquote>
 <div class="wrapper blue">
   <div class="newwrap">
 
-    <h2 id="limpegno-a-migliorare-continuamente">L’impegno a migliorare continuamente.</h2>
-
-    <p>Lorem Ipsum is simply dummy. <sup id="fnref:Nota"><a href="#fn:Nota" class="footnote">1</a></sup> text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-
-    <h2 id="cosa-facciamo-in-90-secondi">Cosa Facciamo, in 90 secondi!</h2>
-    <iframe src="https://player.vimeo.com/video/136204836" width="500" height="281" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+    <p><img align="left" src="https://dl.dropboxusercontent.com/u/312263/%7EImages/quotemarks.png" /><em>Ho avuto il piacere di incontrare Brunello come docente-formatore e consulente. I pensieri che ha condiviso con noi sono stati preziosi e motivanti: estremamente chiaro, lucido e incisivo nell’esporre le sue riflessioni, Brunello porta in sé il contributo di un bagaglio professionale acquisito personalmente che lo rende capace di comprendere appieno, e velocemente, le problematiche aziendali e di individuare nella struttura stessa gli elementi chiave in cui trovare le soluzioni possibili.</em><br />
+<span style="color: #68B310;">Michela Givoletti</span>, Amministratore Delegato - <strong>CAEN SPA</strong>  <img align="right" src="https://dl.dropboxusercontent.com/u/312263/%7EImages/Givoletti.jpg" width="50px" /></p>
   </div>
-</div>
-<div class="footnotes">
-  <ol>
-    <li id="fn:Nota">
-      <p>Ecco un footnote <a href="#fnref:Nota" class="reversefootnote">&#8617;</a></p>
-    </li>
-  </ol>
 </div>
 
         

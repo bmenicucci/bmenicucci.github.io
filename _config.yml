@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 # Site Settings
-url                      : https://bmenicucci.github.io # the base hostname & protocol for your site e.g.: "https://mmistakes.github.io"
+url                      : https://www.menicucci.co # the base hostname & protocol for your site e.g.: "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 
 locale                   : "it"
@@ -16,6 +16,7 @@ comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
     shortname            : bmenicucci # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+slider_array             : []
     
 # SEO Related
 google_site_verification : "3HSeLrF7fmpp6RjeU1e93TTBJpVnO0RK2wvo_n4CIZc"
@@ -89,7 +90,6 @@ defaults:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-slider_array: []
 category_archive:
   type: jekyll-archives
   path: /categories/

@@ -17,8 +17,16 @@ layout: compress
     {% include masthead.html %}
 
       <!-- Slider -->
-      <script src="{{ base_path }}/assets/iss/slider.js"></script>
-      <script src="{{ base_path }}/assets/iss/extensions/captions/iis-captions.js"></script>
+      <script src="{{ base_path }}/assets/js/slider.js"></script>
+      <script src="{{ base_path }}/assets/js/iis-captions.js"></script>
+      <script type="text/javascript">
+              var slider = new IdealImageSlider.Slider({
+              selector: '#slider',
+              height: 400, // Required but can be set by CSS
+              interval: 4000
+              });
+              slider.start();
+      </script>"
       <!-- Sliders on pages -->
       {% for script in page.slider_scripts %}
         {{ script }}
