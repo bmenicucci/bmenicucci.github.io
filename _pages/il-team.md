@@ -13,7 +13,7 @@ tag: M&A
 
 	  
 Ecco il team:
-{% slider %}
+{% slider 700 captions %}
   ![alt text 1](/images/post01.jpg)
   ![alt text 2](/images/post02.jpg)
   ![alt text 3](/images/post03.jpg)
