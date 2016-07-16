@@ -13,8 +13,4 @@ tag: management
 
 {% include toc %}
 
-## Prendere Decisioni Consapevoli a Beneficio di Tutto il Sistema
-djladkjlsadjkas
-
-## Le Insidie della Contabilità Full Costing
-adadaas
+![](/images/work-in-progress.png)

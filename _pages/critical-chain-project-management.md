@@ -12,4 +12,4 @@ tag: management
 ---
 {% include toc %}
 
-# titolo: l'eccellenza operativa
+![](/images/work-in-progress.png)

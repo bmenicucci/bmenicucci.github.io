@@ -12,6 +12,5 @@ tag: M&A
 ---
 
 	  
-Pagina in costruzione!
 ![](/images/work-in-progress.png)
 
