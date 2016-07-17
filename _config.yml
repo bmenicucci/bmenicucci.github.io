@@ -15,7 +15,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "bmenicucci" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "menicucciassociati" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 slider_array             : []
     
 # SEO Related
