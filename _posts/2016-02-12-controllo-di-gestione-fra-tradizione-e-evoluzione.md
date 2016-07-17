@@ -1,11 +1,12 @@
 ---
 layout: single
+comments: true
 ---
 <h2>Un seminario gratuito di CNA e APCO sul Controllo di Gestione</h2>
 <blockquote><em>It is not necessary to change. Survival is not mandatory.</em> (W. Edwards Deming)</blockquote>
-L'impresa, lo sappiamo, è un insieme di risorse (<em>umane, tecnologiche, finanziarie</em>) organizzate allo scopo di raggiungere un obiettivo.
+L'impresa, lo sappiamo, è un insieme di risorse (<em>umane, tecnologiche, finanziarie</em>) organizzate allo scopo di raggiungere un obiettivo.
 
-Il <strong><a href="http://www.menicucci.co/il-controllo-di-gestione/">Controllo di Gestione</a></strong>, quindi, è un processo fondamentale dell'attività d'impresa e dovrebbe consentire, in ogni momento, di <strong>valutare le performance</strong> ottenute rispetto al desiderata.  Qual è l'imprenditore che rinuncerebbe alla possibilità di prendere decisioni velocemente, avendo a disposizione informazioni solide e coerenti con la strategia aziendale? Personalmente non ne conosco....
+Il <strong><a href="http://www.menicucci.co/il-controllo-di-gestione/">Controllo di Gestione</a></strong>, quindi, è un processo fondamentale dell'attività d'impresa e dovrebbe consentire, in ogni momento, di <strong>valutare le performance</strong> ottenute rispetto al desiderata.  Qual è l'imprenditore che rinuncerebbe alla possibilità di prendere decisioni velocemente, avendo a disposizione informazioni solide e coerenti con la strategia aziendale? Personalmente non ne conosco....
 
 Tuttavia, come si dice, la domanda sorge spontanea: in tempi di <strong>complessità crescente</strong>, come quelli che stiamo vivendo, i metodi tradizionali di controllo sono ancora capaci di fornire il supporto decisionale che ci si aspetta? E se così non fosse, quali sono le alternative a disposizione delle aziende?
 
