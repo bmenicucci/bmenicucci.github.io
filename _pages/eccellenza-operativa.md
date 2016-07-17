@@ -2,6 +2,9 @@
 layout: single
 title: Eccellenza Operativa
 permalink: /eccellenza-operativa/
+header:
+  overlay_filter: rgba(235,235,235, 0.5)
+  overlay_image: speed.jpg
 sidebar:
   nav: moreontls
 tag: TOC, LEAN, SIXSIGMA
