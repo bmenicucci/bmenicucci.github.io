@@ -26,9 +26,11 @@ Il punto di partenza, per affrontare il cambiamento, non è sempre lo stesso; di
 - piena crescita, al di sopra della media del settore
 - fase di stagnazione, cioè *non cresce* o non lo fa alla velocità desiderata
 - fase di decrescita, c'è bisogno di un rilancio per tornare a prosperare
+
+quello che conta è, in un'ottica di sistema, capire [DOVE intervenire](/visione-sistemica/#il-processo-di-miglioramento-continuo) per non disperdere energie.
   
 ## Massimizzare il risultato  
-inoltre, per massimizzare i risultati, di solito non serve aumentare l’intensità di quello che si fa: bisogna, invece, scegliere dove orientare le energie per iniziare a produrre risultati. Noi lo facciamo aiutandovi ad impostare un processo di miglioramento continuo, basato su:
+inoltre, per massimizzare i risultati, di solito non serve aumentare l’intensità di quello che si fa: bisogna, invece, scegliere dove orientare le energie per iniziare a produrre risultati. Noi lo facciamo aiutandovi ad impostare [un processo di miglioramento continuo](/visione-sistemica/#il-processo-di-miglioramento-continuo), basato su:
 
  - una visione sistemica dell’organizzazione,
  - una chiara strategia aziendale,

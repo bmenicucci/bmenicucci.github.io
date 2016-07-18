@@ -22,8 +22,8 @@ main:
 chisiamo:
   - title: Approfondimenti
     children:
-      - title: "- Il Team"
-        url: /il-team/
+      - title: "- Risultati tipici"
+        url: /risultati-tipici/
 
       - title: "- Testimonianze"
         url: /testimonianze/
