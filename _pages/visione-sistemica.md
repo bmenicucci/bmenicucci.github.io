@@ -31,7 +31,7 @@ Dunque, utilizzando il *linguaggio* del Sistema, chi intende ottenere un miglior
 La fase di identificazione del *cosa cambiare*, in particolare, è **critica**. Prendiamo, ad esempio, la catena nella figura a lato: che beneficio si otterrebbe dal rafforzare l'anello **verde** o - peggio ancora - quello **blu**? Assolutamente nessuno! 
 
 ## La Visione Sistemica
-Perciò è fondamentale **una visione sistemica**, ad esempio utilizzando gli strumenti messi a disposizione dalla [***Theory Of Constraints***](http://www.tocico.org/?page=toc), che permetta di capire dove intervenire, valutando [*l'impatto* dell'eventuale  cambiamento](il-throughput-accounting) sull'intero sistema per evitare il rischio di dar vita a progetti di cambiamento che, oltre a non produrre miglioramenti, potrebbero addirittura **causare detrimento al sistema**. 
+Perciò è fondamentale **una visione sistemica**, ad esempio utilizzando gli strumenti messi a disposizione dalla [***Theory Of Constraints***](http://www.tocico.org/?page=toc), che permetta di capire dove intervenire, valutando [*l'impatto* dell'eventuale  cambiamento](/il-throughput-accounting/) sull'intero sistema per evitare il rischio di dar vita a progetti di cambiamento che, oltre a non produrre miglioramenti, potrebbero addirittura **causare detrimento al sistema**. 
 
 ![]({{relative}}/images/system-as-a-chain.jpg)
 
