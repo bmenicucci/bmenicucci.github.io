@@ -15,7 +15,7 @@ tag: M&A
 {% include toc %}
 
 ## Chi Siamo  
-Siamo consulenti di management qualificati [APCO](www.apcoitalia.it) e [CMC™](www.icmci.org), Lavoriamo nella consulenza dal 2012, forti di oltre 30 anni di esperienza sul campo, maturati collaborando con aziende e multinazionali di settori diversi (servizi, industria, distribuzione), ricoprendo ruoli di crescente responsabilità.  
+Siamo consulenti di management qualificati [APCO](http://www.apcoitalia.it) e [CMC™](http://www.icmci.org), Lavoriamo nella consulenza dal 2012, forti di oltre 30 anni di esperienza sul campo, maturati collaborando con aziende e multinazionali di settori diversi (servizi, industria, distribuzione), ricoprendo ruoli di crescente responsabilità.  
 
 Nel panorama della consulenza di management ci distinguiamo grazie all'approccio "[*sistemico*](/visione-sistemica/)", [una metodologia](/theory-of-constraints/) che guarda alle organizzazioni come a *sistemi complessi*.  
 

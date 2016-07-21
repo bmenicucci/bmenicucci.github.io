@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About Us
+title: Il Miglioramento Continuo
 permalink: /il-miglioramento-continuo/
 header:
   overlay_filter: rgba(235,235,235, 0.5)
