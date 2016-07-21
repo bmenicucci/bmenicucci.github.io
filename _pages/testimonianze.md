@@ -10,7 +10,7 @@ sidebar:
 category: About us
 tag: M&A
 feature_row:
-  - image_path: https://dl.dropboxusercontent.com/u/312263/%7EImages/Givoletti.jpg
+  - image_path: ../images/michelagivoletti.jpg
     alt: "placeholder image 1"
     excerpt: "Ho avuto il piacere di incontrare Brunello come docente-formatore e consulente. I pensieri che ha condiviso con noi sono stati [**preziosi e motivanti**](/allineamento-delle-persone/) "
   - image_path: https://dl.dropboxusercontent.com/u/312263/%7EImages/Tafi.jpg

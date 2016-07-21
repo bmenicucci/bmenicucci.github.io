@@ -22,6 +22,8 @@ main:
 chisiamo:
   - title: Approfondimenti
     children:
+      - title: "- Il miglioramento continuo"
+        url: /il-miglioramento-continuo/
       - title: "- Risultati tipici"
         url: /risultati-tipici/
 
