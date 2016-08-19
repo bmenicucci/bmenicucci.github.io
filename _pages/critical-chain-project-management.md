@@ -20,4 +20,4 @@ Compila il form per scaricare gratuitamente la tua copia del mio white paper "*C
 
 ![](https://dl.dropboxusercontent.com/u/312263/~Images/cover-ebook.png)
 
-{% include form_contatto %}
+{% include form_contatto.html %}
