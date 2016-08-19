@@ -109,6 +109,13 @@
 	);
 </script>
 
+
+<script id="_webengage_script_tag" type="text/javascript">
+    var webengage; !function(e,t,n){function o(e,t){e[t[t.length-1]]=function(){r.__queue.push([t.join("."),arguments])}}var i,s,r=e[n],g=" ",l="init options track screen onReady".split(g),a="feedback survey notification".split(g),c="options render clear abort".split(g),p="Open Close Submit Complete View Click".split(g),u="identify login logout setAttribute".split(g);if(!r||!r.__v){for(e[n]=r={__queue:[],__v:"6.0",user:{}},i=0;i<l.length;i++)o(r,[l[i]]);for(i=0;i<a.length;i++){for(r[a[i]]={},s=0;s<c.length;s++)o(r[a[i]],[a[i],c[s]]);for(s=0;s<p.length;s++)o(r[a[i]],[a[i],"on"+p[s]])}for(i=0;i<u.length;i++)o(r.user,["user",u[i]]);setTimeout(function(){var f=t.createElement("script"),d=t.getElementById("_webengage_script_tag");f.type="text/javascript",f.async=!0,f.src=("https:"==t.location.protocol?"https://ssl.widgets.webengage.com":"http://cdn.widgets.webengage.com")+"/js/webengage-min-v-6.0.js",d.parentNode.insertBefore(f,d)})}}(window,document,"webengage");
+
+    webengage.init('11b564d86');
+</script>
+
 <!-- <link rel="shortcut icon" type="image/png" href="/favicon.png" > -->
 <link rel="icon" href="/favicon.png" >
 
@@ -237,353 +244,358 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:4000/strategia/Strategie-per-il-cambiamento/</loc>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:4000/controllo-di-gestione-fra-tradizione-e-evoluzione/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/auguri-per-un-2016-strepitoso/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/pa-non-fa-rima-con-performance/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/i-report-mensili-non-sono-un-sistema-di-misurazione-delle-performance/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/solo-una-persona-su-otto-e-engaged/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/perche-serve-una-mission-che-funzioni/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/conseguire-gli-obiettivi-strategici-superando-il-budget-beyond-budgeting/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/benvenuto-consulente-cmc/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/presentazione-video/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/lettera-al-presidente-renzi/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/credito-e-innovazione-sostegno-della-competitivita/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/consulenza/la-strategia-e-agire-non-parlare/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/microcredito-per-le-pmi-ecco-una-bella-opportunita/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/gli-indicatori-di-performance-che-aumentano-le-performance/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/tempo-e-denaro-non-sono-risorse/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/la-marginalita-aumenta-del-20-usando-indicatori-previsionali/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/ce-controllo-e-controllo-2/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/la-crisi-italiana-e-tutta-europea/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/perche-si-prendono-decisioni-sbagliate/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/ottimizzare-il-circolante-per-aumentare-il-cash-flow/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/lanalisi-dei-competitor-nella-strategia/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/governare-o-dirigere-parte-2/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/per-dare-una-scossa-vera-smantelliamo-linps/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/governare-o-dirigere-parte-1/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/ma-dove-vai-se-una-value-proposition-non-ce-lhai/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/Un-solo-indicatore-per-mantenere-l-equillibrio-finanziario/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/Ma-dove-vai-se-una-Value-Proposition-non-ce-l-hai/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/un-solo-indicatore-per-mantenere-l-equillibrio-finanziario/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/migliorare-il-cash-flow/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/la-swot-analysis/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/la-lettera-di-patronage/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/la-SWOT-Analysis/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/Come-Migliorare-il-Cash-Flow/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/qlik-annuncia-la-free-personal-edition-di-qlikview-next/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/Qlikview.next-in-Free-Personal-Edition/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/il-coraggio-di-prendere-decisioni/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/i-rischi-della-centrale-rischi/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/strategie-per-crescere-fatturato-e-profitti/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/Il-coraggio-di-decidere/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/I-rischi...-della-Centrale-Rischi/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/Come-far-crescere-fatturato-e-profitti/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/il-consulente-e-limprenditore-con-la-sindrome-di-tafazzi/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/Tafazzi/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/conosci-il-tuo-modello-di-business/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/featured/Business-Model/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/le-dimensioni-del-cambiamento/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/istat-andamento-della-produzione-industriale-gen-2014/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/ISTAT-Andamento-Produzione-industriale-gen-2014/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/5-elementi-chiave-per-trarre-profitto-dal-cambiamento/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/incentivi-alle-pmi-la-nuova-sabatini/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/atradius-pubblica-il-nuovo-report-paese-sulla-competitivita-dellitalia/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/nuovi-criteri-per-la-concessione-di-credito-alle-pmi-attraverso-il-fondo-di-garanzia/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/tecniche-di-gestione-per-battere-la-crisi/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/guida-al-controllo-di-gestione-per-le-pmi/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/segnali-di-crisi-aziendale/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/il-budget-e-morto-parte-2/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/il-budget-e-morto-parte-1/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/la-balanced-scorecard/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/azienda-in-crisi-equilibrio-economico-patrimoniale-finanziario/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/il-pil-scende-ancora-ma-la-ripresa-e-in-arrivo/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/perche-e-importante-il-performance-management/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/sei-soddisfatto-dei-risultati-della-tua-azienda/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/la-dinamica-dei-costi/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/reporting-con-excel/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/perche-le-aziende-falliscono/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/i-pagamenti-nelle-transazioni-commerciali-cosa-cambia-dal-1-gennaio-2013/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/come-va-la-tua-azienda/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/collegare-leuropa-con-reti-piu-stabili-sicure-e-veloci/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/controllo%20di%20gestione/i-ratios/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:4000/apple-presenta-i-risultati-di-q4/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
@@ -592,140 +604,147 @@
   
   <url>
     <loc>http://localhost:4000/about/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/allineamento-delle-persone/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/category/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/contatti/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/critical-chain-project-management/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/eccellenza-operativa/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/eccellenza-operativa/</loc>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/formazione/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/il-controllo-di-gestione/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/il-miglioramento-continuo/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/il-team/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/il-throughput-accounting/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/implementazione-e-change-management</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/incontro-preliminare/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/blog/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/performance-analytics/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/politica-dei-cookies/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/portfolio/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/risultati-tipici/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/simplified-drum-buffer-rope/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
@@ -734,14 +753,14 @@
   
   <url>
     <loc>http://localhost:4000/strategia-aziendale/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/testimonianze/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
@@ -750,105 +769,112 @@
   
   <url>
     <loc>http://localhost:4000/theory-of-constraints/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/visione-sistemica/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page2/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page3/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page4/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page5/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page6/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page7/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page8/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page9/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page10/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page11/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page12/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page13/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/page14/</loc>
-    <lastmod>2016-07-21T16:38:09+02:00</lastmod>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/page15/</loc>
+    <lastmod>2016-08-19T12:37:08+02:00</lastmod>
   </url>
   
   
