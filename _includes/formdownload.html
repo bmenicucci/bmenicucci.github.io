@@ -2,19 +2,20 @@
     <form id="contact-form" action="//formspree.io/info@menicucci.co" method="post">
     <fieldset>
         <input type="hidden" name="_next" value="{{ site.url }}/thanks" />
-        <input type="hidden" name="_subject" value="Nuovo messaggio dal sito!" />
+        <input type="hidden" name="_subject" value="Richiesta Download" />
         <input type="text" name="_gotcha" style="display:none" />
         <!-- FORM -->
         <div class="col-sm-4">
             <div class="form-group">
-                <label for="InputName">Nome e Cognome</label>
-                <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Nome e Cognome" required>
-                <label for="InputEmail">Indirizzo Email</label>
+                <label for="InputName">Nome</label>
+                <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Nome" required>
+                <label for="InputSurame">Cognome</label>
+                <input type="text" class="form-control" name="InputSurname" id="InputSurname" placeholder="Cognome" required>
+                <label for="InputEmail">Indirizzo al quale inviare il link per il Download</label>
                 <input type="_replyto" class="form-control" id="InputEmail" name="InputEmail" placeholder="Indirizzo Mail" required>
-                <label for="InputMessage">Messaggio</label>
-                <textarea name="InputMessage" id="InputMessage" class="form-control" rows="4" required></textarea>
             </div>
             <div class="span7 text-left">
+            <p> </p>
                 <button type="submit" class="btn btn-danger btn-lg">Invia >></button>
             </div>
         </div>

@@ -111,12 +111,12 @@
 	);
 </script>
 
-
+<!--
 <script id="_webengage_script_tag" type="text/javascript">
     var webengage; !function(e,t,n){function o(e,t){e[t[t.length-1]]=function(){r.__queue.push([t.join("."),arguments])}}var i,s,r=e[n],g=" ",l="init options track screen onReady".split(g),a="feedback survey notification".split(g),c="options render clear abort".split(g),p="Open Close Submit Complete View Click".split(g),u="identify login logout setAttribute".split(g);if(!r||!r.__v){for(e[n]=r={__queue:[],__v:"6.0",user:{}},i=0;i<l.length;i++)o(r,[l[i]]);for(i=0;i<a.length;i++){for(r[a[i]]={},s=0;s<c.length;s++)o(r[a[i]],[a[i],c[s]]);for(s=0;s<p.length;s++)o(r[a[i]],[a[i],"on"+p[s]])}for(i=0;i<u.length;i++)o(r.user,["user",u[i]]);setTimeout(function(){var f=t.createElement("script"),d=t.getElementById("_webengage_script_tag");f.type="text/javascript",f.async=!0,f.src=("https:"==t.location.protocol?"https://ssl.widgets.webengage.com":"http://cdn.widgets.webengage.com")+"/js/webengage-min-v-6.0.js",d.parentNode.insertBefore(f,d)})}}(window,document,"webengage");
 
     webengage.init('11b564d86');
-</script>
+</script> -->
 
 <!-- <link rel="shortcut icon" type="image/png" href="/favicon.png" > -->
 <link rel="icon" href="/favicon.png" >
@@ -333,8 +333,8 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>Cercando su Google il termine “ Project Management ” si ottengono oltre 340 milioni di risultati. Segno evidente che l’argomento è ben noto ma anche estremamente dibattuto. Perché? Perché da circa mezzo secolo (in pratica da quando è stato sviluppato il PERT - Program Evaluation and Review Technique) i problemi che sono causa di insuccesso nella gestione dei progetti sono, più o meno, sempre gli stessi! 
-<img align="right" src="/images/cover-ebook.png" width="350px" /></p>
+        <p>Cercando su <a href="https://www.google.com">Google</a> il termine “<strong>Project Management</strong>” si ottengono oltre 340 milioni di risultati. Segno evidente che l’argomento è ben noto ma anche estremamente dibattuto. Perché? Perché da circa mezzo secolo (in pratica da quando è stato sviluppato il <a href="https://it.wikipedia.org/wiki/PERT/CPM">PERT - Program Evaluation and Review Technique)</a> i problemi che sono causa di insuccesso nella gestione dei progetti sono, più o meno, sempre gli stessi! 
+<img align="right" src="/images/cover-ebook.png" width="300px" /></p>
 
 <p>Critical Chain è <a href="https://it.wikipedia.org/wiki/Critical_Chain_Project_Management">il metodo di pianificazione e controllo</a> che ti permette di completare i progetti nei tempi previsti, di sincronizzare la capacità delle risorse, anche in ambienti “multi progetto”, e di rispettare il budget stanziato.</p>
 
@@ -344,19 +344,20 @@
     <form id="contact-form" action="//formspree.io/info@menicucci.co" method="post">
     <fieldset>
         <input type="hidden" name="_next" value="http://localhost:4000/thanks" />
-        <input type="hidden" name="_subject" value="Nuovo messaggio dal sito!" />
+        <input type="hidden" name="_subject" value="Richiesta Download" />
         <input type="text" name="_gotcha" style="display:none" />
         <!-- FORM -->
         <div class="col-sm-4">
             <div class="form-group">
-                <label for="InputName">Nome e Cognome</label>
-                <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Nome e Cognome" required="" />
-                <label for="InputEmail">Indirizzo Email</label>
+                <label for="InputName">Nome</label>
+                <input type="text" class="form-control" name="InputName" id="InputName" placeholder="Nome" required="" />
+                <label for="InputSurame">Cognome</label>
+                <input type="text" class="form-control" name="InputSurname" id="InputSurname" placeholder="Cognome" required="" />
+                <label for="InputEmail">Indirizzo al quale inviare il link per il Download</label>
                 <input type="_replyto" class="form-control" id="InputEmail" name="InputEmail" placeholder="Indirizzo Mail" required="" />
-                <label for="InputMessage">Messaggio</label>
-                <textarea name="InputMessage" id="InputMessage" class="form-control" rows="4" required=""></textarea>
             </div>
             <div class="span7 text-left">
+            <p> </p>
                 <button type="submit" class="btn btn-danger btn-lg">Invia &gt;&gt;</button>
             </div>
         </div>
