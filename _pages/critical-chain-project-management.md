@@ -1,5 +1,4 @@
 ---
-layout: single
 title: La Gestione dei Progetti
 permalink: /critical-chain-project-management/
 header:
