@@ -13,7 +13,7 @@ main:
     url: /contatti/
 
   - title: "Blog"
-    url: /blog/
+    url: http://blog.menicucci.co/
 
   - title: "Privacy e politica dei Cookies"
     url: /politica-dei-cookies/
