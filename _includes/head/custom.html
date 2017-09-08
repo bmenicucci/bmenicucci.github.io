@@ -1,6 +1,6 @@
 <!-- start custom head snippets -->
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript" src="{{ base_path }}/assets/js/jquery.min.js"></script>
 <script type="text/javascript" src="{{ base_path }}/assets/js/bigfoot.js"></script>
 <script type="text/javascript">
 	var bigfoot = $.bigfoot(
@@ -10,56 +10,12 @@
 		}
 	);
 </script>
-
-<!--
-<script id="_webengage_script_tag" type="text/javascript">
-    var webengage; !function(e,t,n){function o(e,t){e[t[t.length-1]]=function(){r.__queue.push([t.join("."),arguments])}}var i,s,r=e[n],g=" ",l="init options track screen onReady".split(g),a="feedback survey notification".split(g),c="options render clear abort".split(g),p="Open Close Submit Complete View Click".split(g),u="identify login logout setAttribute".split(g);if(!r||!r.__v){for(e[n]=r={__queue:[],__v:"6.0",user:{}},i=0;i<l.length;i++)o(r,[l[i]]);for(i=0;i<a.length;i++){for(r[a[i]]={},s=0;s<c.length;s++)o(r[a[i]],[a[i],c[s]]);for(s=0;s<p.length;s++)o(r[a[i]],[a[i],"on"+p[s]])}for(i=0;i<u.length;i++)o(r.user,["user",u[i]]);setTimeout(function(){var f=t.createElement("script"),d=t.getElementById("_webengage_script_tag");f.type="text/javascript",f.async=!0,f.src=("https:"==t.location.protocol?"https://ssl.widgets.webengage.com":"http://cdn.widgets.webengage.com")+"/js/webengage-min-v-6.0.js",d.parentNode.insertBefore(f,d)})}}(window,document,"webengage");
-
-    webengage.init('11b564d86');
-</script> -->
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),
+	p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,
+	"script","https://chimpstatic.com/mcjs-connected/js/users/64037b59d24848bd5dfedb5ab/dc0fd706b838b6e440f77b04e.js");
+</script>
 
 <!-- <link rel="shortcut icon" type="image/png" href="{{ "/favicon.png" | prepend: site.baseurl }}" > -->
 <link rel="icon" href="{{ "/favicon.png" | prepend: site.baseurl }}" >
-
-	<!-- FLEXSLIDER-->
-	{% if page.carousel %}
-
-        <link type="text/css" rel="stylesheet" href="/assets/css/flexslider.css">
-		<script type="text/javascript" src="{{ base_path }}/assets/js/jquery.flexslider.js"></script>
-
-        <!-- Initialisation Code  -->
-        <script type="text/javascript">
-		   (function($) {
-		      $(window).load(function() {
-			  $('.flexslider').flexslider({
-			    animation: "slide",
-			    animationLoop: true,
-			    itemWidth: 100,
-			    itemMargin: 25,
-			    minItems: 3,
-    			maxItems: 3,
-		        start: function(slider){
-		          $('body').removeClass('loading');
-		        }
-		      });
-		    });
-		   })(jQuery);
-
-		</script>
-		<style type="text/css">
-			.flex-caption {
-			  width: 96%;
-			  padding: 2%;
-			  left: 0;
-			  bottom: 0;
-			  background: rgba(0,0,0,.5);
-			  color: #fff;
-			  text-shadow: 0 -1px 0 rgba(0,0,0,.3);
-			  font-size: 14px;
-			  line-height: 18px;
-			}
-		</style>
-
-    {% endif %}
 
 <!-- end custom head snippets -->
