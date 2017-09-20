@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Gli indicatori di performance che aumentano le performance
-date: 2014-10-31 00:00:00
+date: 2014-10-31 00:00:00 Z
+layout: single
 ---
+
 Di solito, quando utilizziamo il termine <em>performance</em>, lo facciamo pensando a indicatori di tipo quantitativo, che di solito coincidono con i risultati <em>economico-finanziari</em> dell'impresa.
 
 Bisognerebbe invece (anzi bisogna) allargare il <strong>concetto di performance</strong> a qualsiasi risultato ottenuto dall'azienda. Questo significa non limitarsi a monitorare gli aspetti prettamente quantitativi (la quantità prodotta, la marginalità per prodotto o per Cliente, e così via) ma estendere il proprio controllo anche ad aspetti qualitativi, che spesso non sono presi in considerazione.

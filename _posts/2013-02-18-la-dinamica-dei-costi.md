@@ -1,9 +1,9 @@
 ---
-
-layout: single
 title: La dinamica dei costi
-date: 2013-02-18 09:51:28
+date: 2013-02-18 09:51:28 Z
+layout: single
 ---
+
 <!--?xml version="1.0" encoding="UTF-8" standalone="no"?--> Per sopravvivere, in un mercato così cinico e selvaggio come quello odierno, bisogna fare attenzione proprio a tutto. Una delle cose che sfugge, all'attenzione di titolari di impresa e del management di piccole e medie aziende, è il cambiamento che si è venuto a creare nelle determinanti che condizionano le dinamiche dei costi aziendali.
 
 Se qualcuno non se ne fosse accorto, oggi il principale "driver" dei costi *NON* è più il volume delle vendite. Questa variabile, che per moltissimi anni è stata la vera determinante capace di condizionare l'entità dei costi, oggi rischia di portare fuori strada perché, sostanzialmente, non tiene conto di un dato divenuto fondamentale: <b>la </b><span><b>complessità</b>. </span>

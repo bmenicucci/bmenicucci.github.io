@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Conseguire gli obiettivi strategici superando il Budget (Beyond Budgeting)
-date: 2015-03-14 16:37:06
+date: 2015-03-14 16:37:06 Z
+layout: single
 ---
+
 <h2>Sostituire il processo di Budget tradizionale con Beyond Budgeting</h2>
 Sono sempre più numerose le aziende che manifestano un senso di insoddisfazione e di critica verso il processo di Budget tradizionale.
 

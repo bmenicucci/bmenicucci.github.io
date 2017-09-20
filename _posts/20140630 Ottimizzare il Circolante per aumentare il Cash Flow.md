@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Ottimizzare il Circolante per aumentare il Cash Flow
+layout: single
 Date: 30/06/2014
 ---
 

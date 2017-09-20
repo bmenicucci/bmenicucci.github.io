@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Eccellenza Operativa
-permalink: /eccellenza-operativa/
+permalink: "/eccellenza-operativa/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: speed.jpg
@@ -10,6 +10,7 @@ sidebar:
 tag: TOC, LEAN, SIXSIGMA
 category: consulenza
 ---
+
 {% include toc %}
 
 >Non importa che si tratti del business delle auto o di quello della telefonia mobile: essere **più veloci** è un vantaggio strategico correlato strettamente con il processo di creazione dei prodotti.

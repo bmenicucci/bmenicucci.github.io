@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Benvenuto consulente CMC™!
-date: 2015-03-13 19:40:37
+date: 2015-03-13 19:40:37 Z
+layout: single
 ---
+
 <h2>Un nuovo consulente qualificato <strong>CMC</strong>™</h2>
 Da lunedì 10 marzo 2015 Brunello Menicucci ha ottenuto la qualificazione di consulente <strong>CMC</strong> (Certified Management Consultant).
 

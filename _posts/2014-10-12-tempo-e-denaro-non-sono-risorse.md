@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Tempo e denaro non sono risorse
-date: 2014-10-12 00:00:00
+date: 2014-10-12 00:00:00 Z
+layout: single
 ---
+
 Tempo e denaro <strong>non sono risorse</strong>. O, almeno, non nel senso che comunemente si attribuisce a questo termine.
 
 <a href="http://www.blackstarconsulting.it/wp-content/uploads/2014/10/tempo-denaro.jpg"><img class="alignleft size-thumbnail wp-image-1640" src="http://www.blackstarconsulting.it/wp-content/uploads/2014/10/tempo-denaro-150x150.jpg" alt="Tempo e denaro non sono risorse!" width="150" height="150" /></a>Cercherò di chiarire che cosa intendo con un esempio pratico: avete fissato, da diversi giorni, un appuntamento con un cliente, un fornitore o un collega, impegnando perciò le vostre reciproche agende. Tuttavia, in prossimità dell'evento, il cliente, fornitore o collega vi informa che a causa di improrogabili e sopravvenute eventualità non potrà partecipare.

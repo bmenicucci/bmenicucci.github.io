@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Collegare l&#8217;Europa con reti più stabili, sicure e veloci
-date: 2012-10-30 15:46:41
+date: 2012-10-30 15:46:41 Z
+layout: single
 ---
+
 <div class="posterous_autopost"><b>Vorresti connessioni internet più stabili, sicure e veloci in Europa? </b>
 <div>Se la risposta è SI, allora <a href="http://ec.europa.eu/commission_2010-2014/kallas/connecting-europe-facility/index_en.htm">firma anche tu</a> per supportare Connecting Europe Facility.&nbsp;
 <div>

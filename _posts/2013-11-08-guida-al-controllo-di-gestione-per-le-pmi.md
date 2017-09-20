@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Guida al controllo di gestione per le PMI
-date: 2013-11-08 15:46:51
+date: 2013-11-08 15:46:51 Z
+layout: single
 ---
+
 <h2>Come realizzare un Sistema di <a href="http://www.menicucci.co/il-controllo-di-gestione/" target="_blank">Controllo di Gestione</a> nelle PMI</h2>
 Il mio eBook "<a href="https://geo.itunes.apple.com/it/book/guida-al-controllo-di-gestione/id730098761?mt=11" target="_blank">Guida al controllo di gestione per le PMI</a>" è approdato sull'iBooks Store di Apple, in vendita a € 9,99. E' una guida dal taglio pratico, che mette in evidenza gli <strong>indicatori principali</strong> con cui titolari d'impresa e manager di PMI possono monitorare l'andamento del business.
 

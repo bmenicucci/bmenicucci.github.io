@@ -1,9 +1,10 @@
 ---
+title: Il Pil Scende Ancora Ma La Ripresa E In Arrivo
+date: 2013-08-08 15:20:30 Z
 layout: single
 post_title: il PIL scende ancora, ma la ripresa è in arrivo
-date: 2013-08-08 15:20:30
-
 ---
+
 <h2>E' in arrivo la ripresa in Italia?</h2>
 Mentre l'<a href="http://www.istat.it/it/archivio/pil">ISTAT</a> certifica l'ottavo calo trimestrale, alcuni indicatori, come la produzione industriale e la fiducia dei consumatori, sembrano manifestare una <em><strong>controtendenza</strong></em>, <a href="http://www.agi.it/economia/notizie/201308081012-eco-rt10041-bce_graduale_ripresa_gia_nel_corso_del_2013">confermata</a> anche dall'ultimo bollettino della BCE, nel quale l'istituto di Francoforte prevede una "graduale ripresa economica nel prosieguo dell'anno e nel 2014".
 

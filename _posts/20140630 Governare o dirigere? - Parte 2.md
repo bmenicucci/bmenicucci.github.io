@@ -1,6 +1,6 @@
 ---
-layout: single
 title: Governare o dirigere? - Parte 2
+layout: single
 Date: 30/06/2014
 ---
 

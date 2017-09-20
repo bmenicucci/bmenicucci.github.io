@@ -1,8 +1,9 @@
 ---
-layout: single
 title: 5 elementi chiave per trarre profitto dal cambiamento
-date: 2014-03-07 12:45:45
+date: 2014-03-07 12:45:45 Z
+layout: single
 ---
+
 <h1>5 elementi chiave per trarre profitto dal cambiamento</h1>
 “<em>Gli unici a cui piace il cambiamento sono i bambini che hanno fatto pipì</em>”. Così, più o meno, affermava Maria Ludovica Lombardi in un corso di formazione cui ho partecipato qualche anno addietro. Ma come diceva Eraclito, il cambiamento è l’unica cosa immutabile, perciò è meglio imparare a gestirlo, piuttosto che subirlo.
 

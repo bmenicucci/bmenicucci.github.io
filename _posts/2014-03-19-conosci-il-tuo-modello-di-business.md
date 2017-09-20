@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Conosci il tuo Modello di Business?
-date: 2014-03-19 09:41:43
+date: 2014-03-19 09:41:43 Z
+layout: single
 ---
+
 <h1>L'importanza di avere un <em>modello di business</em> e di revisionarlo spesso</h1>
 [I]n un mio post di qualche tempo fa, sul tema del <a href="http://www.blackstarconsulting.it/go/strategia-per-ripensare-la-competitivita/">recupero di competitività</a>, sostenevo <strong>la necessità di rivedere il proprio modello di business ogni 6 mesi</strong>. Esagerazioni? Vediamo di scoprirlo insieme, iniziando col dare una definizione di “<em>modello di business</em>”. La traduzione italiana di questo termine è “modello economico” e, in pratica, spiega e descrive <strong>in che modo un’azienda crea, distribuisce e acquisisce valore</strong>, con riferimento al mercato e ai Clienti cui si rivolge<a class="footnote" title="vedi note a piè di pagina" href="#fn:1">[1]</a>, e può essere utilizzato anche per analizzare il business di concorrenti o di qualsiasi altra organizzazione.
 

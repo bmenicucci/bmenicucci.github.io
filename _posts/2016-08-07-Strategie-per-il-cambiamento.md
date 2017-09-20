@@ -1,9 +1,11 @@
 ---
-layout: single
 title: Strategie per il Cambiamento
-date: 2016-08-07
-category: strategia
-tag: s&t, theory of constraints
+date: 2016-08-07 00:00:00 Z
+categories:
+- strategia
+tags:
+- s&t, theory of constraints
+layout: single
 ---
 
 L'ambiente intorno a noi si evolve a una velocità sempre maggiore. Mai come adesso il significato di quanto diceva Eraclito: "*Non c'è niente di permanente, tranne il cambiamento*" è stato evidente e attuale.   

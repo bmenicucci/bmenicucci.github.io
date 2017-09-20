@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Reporting in excel
-date: 2013-01-15 14:12:05
+date: 2013-01-15 14:12:05 Z
+layout: single
 ---
+
 <h2>Fare Reporting con Excel</h2>
 In Blackstar Consulting abbiamo maturato, negli anni, una lunga esperienza nella gestione dei dati con Excel, grazie alla quale siamo in grado di mettere a punto un Tableau de Bord, <strong><span style="text-decoration: underline;">personalizzato per le vostre esigenze</span></strong>, in tempi rapidi! Se vuoi contattarci subito clicca <a href="mailto:info@menicucci.co" target="_blank">qui</a>, oppure prosegui nella lettura.<img class="alignleft wp-image-496 size-medium" src="http://www.menicucci.co/wp-content/uploads/2013/01/BWReport-211x300.png" alt="Il Reporting con Excel" width="211" height="300" />
 

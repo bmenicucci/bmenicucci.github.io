@@ -1,8 +1,9 @@
 ---
-layout: single
 title: La marginalità aumenta del 20% usando indicatori previsionali
-date: 2014-09-01 00:00:00
+date: 2014-09-01 00:00:00 Z
+layout: single
 ---
+
 Secondo <a href="http://www.gartner.com">Gartner</a>, noto istituto di ricerca statunitense, le aziende che, nella loro attività, utilizzano indicatori previsionali potranno incrementare la marginalità del 20% entro il 2017. Durante i <em>Business Process Management Summits 2014</em> gli analisti di Gartner hanno spiegato che le aziende dovrebbero far uso di indici di misurazione "<strong><em>previsionali</em></strong>" fornendo ai manager la possibilità di attivarsi in anticipo rispetto agli eventi in procinto di accadere.
 
 In effetti, l'uso di indicatori storici per valutare le performance aziendali è "<em>un retaggio del passato</em>", afferma Samantha Searle di Gartner. "<em>Per avere successo in mercati altamente competitivi, le aziende hanno bisogno di indicatori di tipo previsionale (conosciuti anche come "Leading indicators") piuttosto che dati storici (i cosiddetti "Lagging indicators")</em>".

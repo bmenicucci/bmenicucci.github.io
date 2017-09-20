@@ -1,10 +1,13 @@
 ---
-layout: single
 title: La Strategia è agire, non parlare!
-date: 2014-12-06 00:00:00
-category: Consulenza
-tag: Strategia
+date: 2014-12-06 00:00:00 Z
+categories:
+- Consulenza
+tags:
+- Strategia
+layout: single
 ---
+
 Oggi ho riletto con piacere un <a href="https://hbr.org/2014/06/strategy-isnt-what-you-say-its-what-you-/">articolo</a> di Roger Martin, docente di management dall'Università di Toronto, sul fatto che <strong>la strategia non è ciò che si dice, ma ciò che si fa</strong>.
 
 Lavorando con aziende medio-piccole, capita anche a me di trovare manager o titolari pronti a sostenere che la propria azienda <strong>non ha una strategia</strong>. <!--more-->Ma questo non è vero, né realistico: dato che tutte le organizzazioni hanno una scopo, di conseguenza hanno anche un <strong>intento strategico</strong>, che è insito in quello che, concretamente, fanno ogni giorno: il modo di competere, il mercato servito, le alleanze o le acquisizioni non sono altro che <strong><em>il risultato delle scelte fatte</em></strong> e portate a compimento.

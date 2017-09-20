@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Ottimizzare il circolante per aumentare il cash flow
-date: 2014-08-05 17:48:31
+date: 2014-08-05 17:48:31 Z
+layout: single
 ---
+
 Mi sono arrivate diverse richieste su un mio post di qualche tempo fa, dal titolo "<a href="http://www.menicucci.co/2014/05/migliorare-il-cash-flow/">Migliorare il Cash Flow</a>"; le richieste riguardano soprattutto il <strong>Capitale Circolante Netto</strong>(CCN), l'utilità di ridurlo ai minimi termini e il concetto di "<strong>ciclo del circolante</strong>".
 
 Provo a chiarire meglio i concetti: il Capitale Circolante Netto è dato dalla somma algebrica dei conti riferibili a:<!--more-->

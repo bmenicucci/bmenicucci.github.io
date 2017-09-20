@@ -1,8 +1,9 @@
 ---
-layout: single
 title: 'Microcredito per le PMI: ecco una bella opportunità'
-date: 2014-11-13 12:09:51
+date: 2014-11-13 12:09:51 Z
+layout: single
 ---
+
 Nella sala consiliare del Comune di Porcari, ieri mattina, è stato presentato un progetto di microcredito per le PMI: si tratta del <span style="text-decoration: underline;"><strong>Concorso di idee</strong> </span>dedicato alla <span style="text-decoration: underline;"><strong>creazione d’impresa</strong></span> promosso da <a href="http://www.unraggiodiluce.org">Fondazione Un Raggio di Luce Onlus</a> e Microcredito per l’Italia che, per la relativa gestione nella Provincia di Lucca, si sono affidate alla <a title="Fondazione Impresa e Sviluppo" href="http://www.fondazioneimpresaesviluppo.org" target="_blank">Fondazione Impresa e Sviluppo</a>.
 
 L'iniziativa di microcredito si rivolge a micro imprese, cooperative ed imprese sociali in fase di "start up" (quindi, secondo la recente normativa europea, esistenti da non più di 48 mesi) e imprese sociali già costituite, purché residenti nelle provincie di Prato, Pistoia, Lucca e Massa Carrara.

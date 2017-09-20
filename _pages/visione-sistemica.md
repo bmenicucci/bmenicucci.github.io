@@ -1,10 +1,10 @@
 ---
 title: La Visione Sistemica
-permalink: /visione-sistemica/
+permalink: "/visione-sistemica/"
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: yin-yang.jpg
-sidebar: 
+sidebar:
   nav: moreontls
 category: Theory Of Constraints
 tag: management

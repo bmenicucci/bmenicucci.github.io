@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Perché le imprese falliscono?
-date: 2013-01-14 18:46:42
+date: 2013-01-14 18:46:42 Z
+layout: single
 ---
+
 <div class="posterous_autopost">
 <div class="p_embed p_image_embed"></div>
 Tra i Fattori Critici di Successo delle aziende, uno dei più "trascurati" (almeno in termini preventivi) è certamente l'<b>equilibrio finanziario</b> che, insieme all'<b>equilibrio economico</b>, costituisce un pilastro imprescindibile per mantenere l'azienda sul mercato.

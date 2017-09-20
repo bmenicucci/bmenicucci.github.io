@@ -1,8 +1,9 @@
 ---
+title: L&#8217;analisi dei competitor come leva strategica
+date: 2014-08-05 17:48:28 Z
 layout: single
-title: 'L&#8217;analisi dei competitor come leva strategica'
-date: 2014-08-05 17:48:28
 ---
+
 Mi è capitato spesso di ripetere che nel contesto economico e finanziario attuale, caratterizzato da una crisi strutturale del mercato, da processi di internazionalizzazione e da fenomeni di concentrazione nei settori industriali, il cambiamento è la regola e perciò le aziende, per garantire la continuità, devono rivedere e riadattare periodicamente il proprio <strong>modello di business</strong>.
 
 Oggi, tuttavia, non è più sufficiente guardare solo al proprio interno: bisogna invece avere <!--more-->contezza anche delle caratteristiche dei propri competitor, in modo tale da individuare le possibili alternative di sviluppo. Ecco perché l’analisi competitiva, cioè dell’ambiente esterno, del settore specifico e della concorrenza, è diventata una parte fondamentale del processo di pianificazione strategica grazie alla quale diventa possibile:

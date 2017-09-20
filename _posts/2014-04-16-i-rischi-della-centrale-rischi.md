@@ -1,8 +1,9 @@
 ---
+title: I rischi&#8230; della Centrale Rischi
+date: 2014-04-16 07:55:55 Z
 layout: single
-title: 'I rischi&#8230; della Centrale Rischi'
-date: 2014-04-16 07:55:55
 ---
+
 <h1>I rischi… della Centrale Rischi</h1>
 [L]a <strong>Centrale dei Rischi</strong> (CR) è un sistema informativo tenuto da Banca d’Italia, alla quale gli intermediari (Banche, società di leasing, finanziarie) comunicano, mensilmente, il totale dei crediti verso i propri clienti: i crediti pari o superiori a 30.000 euro e i crediti in sofferenza di qualunque importo. A sua volta la Banca d’Italia restituisce mensilmente, agli intermediari, le informazioni (aggiornate al mese precedente) sul debito totale che ciascun cliente segnalato ha verso il sistema creditizio.
 

@@ -1,8 +1,9 @@
 ---
-layout: single
 title: I report mensili non sono un Sistema di Misurazione delle Performance
-date: 2015-04-20 11:23:34
+date: 2015-04-20 11:23:34 Z
+layout: single
 ---
+
 Recentemente ho avuto modo di incontrare il direttore AFC di un'azienda il quale, di fronte ai miei tentativi di convincerlo della necessità di rivedere il sistema tradizionale di pianificazione e controllo, in favore di un <a href="http://www.blackstarconsulting.it/2014/03/5-elementi-chiave-per-trarre-profitto-dal-cambiamento/" target="_blank"><em><strong>sistema di misurazione delle performance</strong></em></a>, mi ha detto che <strong>fare tante misurazioni è una perdita di tempo</strong> che <strong>distoglie l'attenzione dalle cose importanti.</strong> Mi ha anche spiegato che nella sua azienda sono già ben organizzati (e i risultati economico-finanziari lo dimostrano) con riunioni periodiche finalizzate a capire <strong>se e cosa c'è che non va</strong>.<!--more-->
 
 Lo confesso: lì per lì ci sono rimasto piuttosto male... in quel momento mi sono sentito, appunto, come qualcuno<em> che distoglie l'attenzione dalle cose importanti</em>. Però, riflettendoci successivamente, mi è tornata alla mente una frase di <a title="Myron Tribus" href="http://en.wikipedia.org/wiki/Myron_Tribus" target="_blank">Myron Tribus</a> (il quale, a dispetto del nome da <em>console</em> <em>romano</em>, è un eminente scienziato) che, tradotta in italiano, suona più o meno così:

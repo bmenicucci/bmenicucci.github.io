@@ -1,11 +1,11 @@
 ---
-layout: single
 title: About Us
-permalink: /about/
+permalink: "/about/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: about-us.jpg
-sidebar: 
+sidebar:
   nav: chisiamo
 vimeoid: 136204836
 category: About us

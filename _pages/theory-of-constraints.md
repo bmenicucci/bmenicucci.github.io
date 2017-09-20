@@ -1,7 +1,7 @@
 ---
-layout:	single
 title: Theory of Constraints
-permalink: /theory-of-constraints/
+permalink: "/theory-of-constraints/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: chain.jpg
@@ -10,6 +10,7 @@ tag: management
 sidebar:
   nav: moreontls
 ---
+
 {% include toc %}
 
 >*Focus and Simplicity... can move mountains.*

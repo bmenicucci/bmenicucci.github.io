@@ -1,9 +1,9 @@
 ---
+title: Un solo indicatore per mantenere l'equilibrio finanziario dell'azienda
+date: 2014-06-01 00:00:00 Z
 layout: single
 img: https://dl.dropboxusercontent.com/u/312263/%7EImages/car-926327_1920.jpg
-title: Un solo indicatore per mantenere l'equilibrio finanziario dell'azienda 
 ---
-
 
 Nello scorso numero sottolineavo la necessità, in tempo di crisi, di tenere sotto controllo il flusso di cassa perché ove questo venisse a mancare, si creerebbero le condizioni per il *default*.  
 <!-- more -->

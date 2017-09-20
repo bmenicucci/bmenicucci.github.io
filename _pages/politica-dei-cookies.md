@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Politica dei Cookies
-permalink: /politica-dei-cookies/
+permalink: "/politica-dei-cookies/"
+layout: single
 ---
+
 {% include toc %}
 
 Il nostro sito utilizza i Cookies per rendere più semplice ed efficiente l'esperienza del visitatore/utente. Coloro che visionano il Sito, vedranno inserite delle quantità minime di informazioni nei dispositivi in uso, che siano computer e periferiche mobili, in piccoli file di testo denominati “cookie” salvati nelle directory utilizzate dal browser web.

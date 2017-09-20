@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Il coraggio di Prendere Decisioni
-date: 2014-04-16 12:23:45
+date: 2014-04-16 12:23:45 Z
+layout: single
 ---
+
 <h1>Il Coraggio di Prendere Decisioni</h1>
 <span class="firstcharacter">[T]</span>radizionalmente, l’attività di direzione è caratterizzata da cinque funzioni:
 <ul>

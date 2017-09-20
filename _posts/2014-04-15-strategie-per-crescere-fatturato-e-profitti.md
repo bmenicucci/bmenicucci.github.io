@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Strategie per crescere in fatturato e profitti
-date: 2014-04-15 12:01:45
+date: 2014-04-15 12:01:45 Z
+layout: single
 ---
+
 <h1>Strategie per crescere in fatturato e profitti</h1>
 [Q]uando si pensa alla strategia aziendale, il pensiero prevalente, condiviso da manager e accademici, è che l’obiettivo della strategia sia quello di ottenere un “<em>vantaggio competitivo sostenibile</em>” a scapito di qualcosa o qualcuno.
 

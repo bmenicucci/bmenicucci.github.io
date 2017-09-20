@@ -1,11 +1,11 @@
 ---
-layout:		single
-permalink: /strategia-aziendale/
-title:		La Strategia Aziendale
+title: La Strategia Aziendale
+permalink: "/strategia-aziendale/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: too_busy_to_improve.jpg
-sidebar: 
+sidebar:
   nav: moreontls
 category: Strategia
 tag: management

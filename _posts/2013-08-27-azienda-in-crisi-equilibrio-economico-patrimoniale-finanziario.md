@@ -1,8 +1,10 @@
 ---
+title: La tua azienda è in crisi? Scopri se è in equilibrio economico, patrimoniale
+  finanziario
+date: 2013-08-27 11:19:34 Z
 layout: single
-title: La tua azienda è in crisi? Scopri se è in equilibrio economico, patrimoniale finanziario
-date: 2013-08-27 11:19:34
 ---
+
 <h2>Scopri se la tua azienda gode di equilibrio economico, patrimoniale e finanziario</h2>
 E' noto che ogni azienda, per prosperare nel tempo, deve raggiungere una condizione di <a href="http://www.federica.unina.it/economia/ragioneria-ed-economia-aziendale/economicita-equilibrio-sistema-impresa/8/"><strong>equilibrio economico, patrimoniale e finanziario</strong></a>. Non tutte le aziende, tuttavia, sono in grado di mantenere tale condizione, soprattutto a causa della lunga fase di crisi che la nostra economia sta attraversando.
 A questo proposito, si può affermare senza tema di smentita che le situazioni di crisi sono conseguenza di due dimensioni: quella economica e quella finanziaria.

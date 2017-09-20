@@ -1,8 +1,9 @@
 ---
+title: Perché serve una &#8220;mission&#8221; che funzioni
+date: 2015-04-04 14:16:00 Z
 layout: single
-title: 'Perché serve una &#8220;mission&#8221; che funzioni'
-date: 2015-04-04 14:16:00
 ---
+
 Uno degli elementi fondamentali nella <i>strategia</i> di un'azienda è la definizione accurata della <b><i>mission</i></b>. Tutti concordano sul fatto che questo elemento rappresenti la bussola che dovrebbe guidare e ispirare le attività quotidiane di tutto il personale aziendale; purtroppo, nella realtà, molto spesso la <i>mission</i> è una espressione fatta di parole altisonanti ma spesso in contrasto <!--more-->con l'agire effettivo dell'azienda e, certamente, non in grado di <b>coinvolgere emotivamente</b> il personale, creando vero commitment, cioè la partecipazione attiva al successo dell'azienda.
 
 <img class="alignleft" title="la mission deve ispirare e guidare le persone" src="http://www.blackstarconsulting.it/wp-content/uploads/2015/04/IMG_0011.jpg" alt="la mission deve ispirare e guidare le persone" width="1024" height="682" />

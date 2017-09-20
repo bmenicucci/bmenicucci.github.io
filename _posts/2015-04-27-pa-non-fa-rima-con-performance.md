@@ -1,6 +1,9 @@
 ---
+title: Pa Non Fa Rima Con Performance
+date: 2015-04-27 00:00:00 Z
 layout: single
 ---
+
 Questa mattina, su un quotidiano, ho letto una notizia il cui titolo era:
 
 &nbsp;

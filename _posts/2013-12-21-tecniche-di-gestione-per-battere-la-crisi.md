@@ -1,8 +1,9 @@
 ---
+title: Tecniche di gestione per battere la  crisi
+date: 2013-12-21 16:10:24 Z
 layout: single
-title:  Tecniche di gestione per battere la  crisi
-date: 2013-12-21 16:10:24
 ---
+
 Mercoledì scorso, 18 dicembre, ho fatto da relatore in un seminario dal titolo "<em><strong>Tecniche di gestione per battere la crisi</strong></em>" presso il centro direzionale di Internazionale Marmi e Macchine Carrara Spa. Il Seminario è stato organizzato dalla stessa IMM Spa nell'ambito delle attività del Polo Pietre Toscane.
 
 Nel corso della giornata sono stati illustrati metodi semplici, ma efficaci, per mettere a punto un sistema di indicatori che permetta, in ogni momento e a tutte le persone abilitate, di sapere quali risultati l'azienda intende conseguire e dove ci si trova rispetto all'obiettivo pianificato.

@@ -1,8 +1,9 @@
 ---
+title: per dare una scossa vera, smantelliamo l&#8217;inps
+date: 2014-08-05 17:46:59 Z
 layout: single
-title: 'per dare una scossa vera, smantelliamo l&#8217;inps'
-date: 2014-08-05 17:46:59
 ---
+
 Title: Per dare una scossa vera, smantelliamo l'INPS
 author: Brunello Menicucci
 tags: politica

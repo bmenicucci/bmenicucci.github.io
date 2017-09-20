@@ -1,8 +1,10 @@
 ---
+title: Nuovi criteri per la concessione di credito alle PMI attraverso il Fondo di
+  Garanzia
+date: 2014-02-07 12:36:19 Z
 layout: single
-title: Nuovi criteri per la concessione di credito alle PMI attraverso il Fondo di Garanzia
-date: 2014-02-07 12:36:19
 ---
+
 <h2 id="ora-possono-accedere-anche-le-pmi-con-bilanci-in-peggioramento">Ora possono accedere anche le PMI con bilanci in peggioramento</h2>
 <a href="http://www.blackstarconsulting.it/wp-content/uploads/2013/01/money-e1376059032447.jpg"><img class="size-full wp-image-475 alignleft" title="Nuovi criteri per il credito alle PMI attraverso il Fondo di Garanzia" alt="Nuovi criteri per il credito alle PMI attraverso il Fondo di Garanzia" src="http://www.blackstarconsulting.it/wp-content/uploads/2013/01/money-e1376059032447.jpg" width="150" height="150" /></a>La Corte dei Conti ha iniziato oggi l’esame del testo attuativo del Decreto (emanato dal Ministero dello Sviluppo Economico, emanato in concerto con il Ministero dell’Economia) che disciplina i nuovi criteri di accesso al Fondo centrale di Garanzia<a class="footnote" id="fnref1" title="see footnote" href="#fn:1">[1]</a>.
 

@@ -1,6 +1,7 @@
 ---
-layout: single
 title: ISTAT | Andamento della produzione industriale a gennaio 2014
+date: 2014-03-12 00:00:00 Z
+layout: single
 ---
 
 ##ISTAT | Andamento della produzione industriale a gennaio 2014

@@ -1,9 +1,10 @@
 ---
-layout: single
 title: La Balanced Scorecard
+date: 2013-08-28 11:12:47 Z
+layout: single
 author: bmenicucci
-date: 2013-08-28 11:12:47
 ---
+
 <p>Nel 1975 Steven Kerr pubblicò, sul Academy of Management Journal, un articolo dal titolo "<a href="http://www.csus.edu/indiv/s/sablynskic/documents/rewardinga.pdf">La stoltezza di premiare A, sperando di ottenere B</a>" nel quale rimarcava il fatto che in molte aziende si premiano comportamenti diversi da quelli che si dichiara di voler ottenere.</p>
 <p>L'evidenza delle affermazioni di Kerr stimolò la discussione, portando all'enfatizzazione dei seguenti concetti:</p>
 <ol>

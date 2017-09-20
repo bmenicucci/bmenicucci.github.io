@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Lettera al Presidente Renzi
-date: 2015-01-29 09:24:33
+date: 2015-01-29 09:24:33 Z
+layout: single
 ---
+
 Abituato com'è all'uso dello strumento, il Presidente Renzi non sarà sorpreso dall'attacco "Social" che le associazioni professionali gli stanno portando. Ieri il <a title="tweet bombing" href="http://www.infoiva.com/2015/01/tweet-bombing-renzi.html" target="_blank"><strong>tweet bombing</strong></a> lanciato da <strong>Confassociazioni, Acta</strong> e <strong>Alta Partecipazione </strong>con l’hashtag #<strong>annullaAutogol</strong>, oggi è la volta di <a href="http://www.colap.it/" target="_blank"><strong>CoLAP</strong></a> che ha lanciato un flash mob virtuale per bloccare l’aliquota contributiva della gestione separata dell’Inps.<!--more-->
 
 <strong>Emiliana Alessandrucci</strong>, presidente di CoLAP, in un'intervista rilasciata al quotidiano online <a href="http://www.infoiva.com/" target="_blank">InfoIVA</a>, ha dichiarato "<em>A supporto della nostra proposta abbiamo promosso un flash mob virtuale (tweet, facebook, mail) </em>”. Gli associati, e in generale tutti i possessori di Partita Iva esclusiva, sono stati invitati ad inviare una lettera col seguente testo:

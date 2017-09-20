@@ -1,8 +1,9 @@
 ---
+title: Solo 1 persona su 8 è &#8220;engaged&#8221;
+date: 2015-04-07 11:50:49 Z
 layout: single
-title: 'Solo 1 persona su 8 è &#8220;engaged&#8221;'
-date: 2015-04-07 11:50:49
 ---
+
 Nel mio ultimo <a href="http://www.menicucci.co/2015/04/perche-serve-una-mission-che-funzioni/" target="_blank" rel="nofollow">post</a> (<a href="http://www.menicucci.co/2015/04/perche-serve-una-mission-che-funzioni/" target="_blank" rel="nofollow">Perché serve una "mission" che funzioni</a>) ho sostenuto che le aziende, spesso, affermano di <strong>perseguire uno scopo</strong> (la <em><span class="underline">mission</span></em>) e di <strong>attenersi a determinati valori</strong> mentre, nella realtà dei fatti, agiscono in modo diverso creando così scollamento e disaffezione nel personale.
 
 Esagerazioni? Allora sentite qui: poco fa mi è capitato di leggere i <a href="http://www.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx" target="_blank" rel="nofollow">risultati di una ricerca di Gallup</a> che non conoscevo, ma che illustrano perfettamente questo fenomeno; <!--more-->da questo studio su 142 Paesi nel mondo emerge, infatti, che globalmente <span class="underline"><strong>solo 1 lavoratore su 8</strong></span> (il 13% circa) è impegnato attivamente nel sostenere la propria azienda (sono, cioè, "<strong>engaged</strong>"). La maggior parte, invece (il 63%!!), è "<strong>not engaged</strong>" cioè manca di motivazione ed è poco probabile che decida di impegnarsi attivamente nel raggiungimento degli obiettivi aziendali. E poi ci sono gli altri: 1 su 5 è <span class="underline"><strong>insoddisfatto</strong></span>, <span class="underline"><strong>improduttivo</strong></span> e fortemente orientato a <span class="underline"><strong>diffondere negatività</strong></span> in azienda.

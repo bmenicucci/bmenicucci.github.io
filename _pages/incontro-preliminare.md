@@ -1,9 +1,8 @@
 ---
-layout:		default
+permalink: "/incontro-preliminare/"
+layout: default
 author_profile: false
-permalink: /incontro-preliminare/
-titolo:		Consulenza di Direzione - Incontro Preliminare
+titolo: Consulenza di Direzione - Incontro Preliminare
 ---
-
 
 {% include contatti.html %}

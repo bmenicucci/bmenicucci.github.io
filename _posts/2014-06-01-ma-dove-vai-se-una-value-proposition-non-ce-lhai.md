@@ -1,8 +1,9 @@
 ---
+title: Ma dove vai, se una Value Proposition non ce l&#8217;hai?
+date: 2014-06-01 10:24:53 Z
 layout: single
-title: 'Ma dove vai, se una Value Proposition non ce l&#8217;hai?'
-date: 2014-06-01 10:24:53
 ---
+
 <h1>Ma dove vai, se la Value Proposition non ce l’hai?</h1>
 [I]n un mondo sempre più competitivo, sia a livello degli affari che a livello personale, diventa fondamentale avere delle certezze, pur consapevoli che queste non durano in eterno e che periodicamente è necessario rivedere le proprie posizioni.
 

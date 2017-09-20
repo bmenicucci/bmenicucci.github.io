@@ -1,9 +1,9 @@
 ---
+title: Il consulente e l'imprenditore con la sindrome di Tafazzi
+date: 2014-06-01 00:00:00 Z
 layout: single
 Date: 31/05/2014
-title: Il consulente e l'imprenditore con la sindrome di Tafazzi
 ---
-
 
 #Ma dove vai, se la Value Proposition non ce l'hai?
 

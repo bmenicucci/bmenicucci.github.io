@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Il Budget è morto? (parte 1)
-date: 2013-09-06 14:41:15
+date: 2013-09-06 14:41:15 Z
+layout: single
 ---
+
 Jack Welch, uno dei manager più famosi del mondo, a capo della General Electric per lungo tempo, nel suo libro Winning ha scritto:
 <blockquote>"Fa perdere tempo, porta via energie e il piacere di lavorare. Nasconde le opportunità e impedisce la crescita. Tira fuori il peggio dell'azienda, ne nasconde le capacità e le livella nella mediocrità."</blockquote>
 Stiamo parlando del processo di BUDGET. Questo odiatissimo esercizio di definizione dei target, di assegnazione delle risorse e di incentivazione del personale, rappresenta il pilastro su cui la quasi totalità degli imprenditori e dei manager di PMI poggia l'operatività aziendale. Da un po' di tempo, però, alcune aziende, guidate da Steve Player, direttore del Beyond Budgeting Round Table (un network di aziende che conta oltre 50 associati, fra i quali Google, Unilever e Toyota), hanno cominciato a parlare di eliminare il budget dai processi aziendali.

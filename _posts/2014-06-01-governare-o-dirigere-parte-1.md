@@ -1,8 +1,9 @@
 ---
+title: Governare o dirigere? &#8211; Parte 1
+date: 2014-06-01 15:13:46 Z
 layout: single
-title: 'Governare o dirigere? &#8211; Parte 1'
-date: 2014-06-01 15:13:46
 ---
+
 <h1>Governare o dirigere? - Parte 1</h1>
 [P]arlare di “Value Proposition” mi ha fatto tornare in mente la distinzione fra governo e direzione dell’impresa o, se vogliamo, fra Leader e Manager[1. Managers and Leaders: Are They Different? - Zaleznik, Abraham - 1977].
 

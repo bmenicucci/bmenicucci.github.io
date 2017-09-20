@@ -1,11 +1,11 @@
 ---
-layout: single
 title: Il Miglioramento Continuo
-permalink: /il-miglioramento-continuo/
+permalink: "/il-miglioramento-continuo/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: evolution-of-man.png
-sidebar: 
+sidebar:
   nav: chisiamo
 vimeoid: 136204836
 category: About us

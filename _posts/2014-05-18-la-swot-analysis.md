@@ -1,8 +1,9 @@
 ---
-layout: single
 title: La SWOT Analysis
-date: 2014-05-18 14:16:49
+date: 2014-05-18 14:16:49 Z
+layout: single
 ---
+
 <h1>L’analisi dei punti di forza e di debolezza (SWOT analysis)</h1>
 [L]’analisi dei punti di forza e di debolezza è uno strumento di pianificazione strategica attraverso il quale si possono rappresentare le caratteristiche di un’organizzazione (ma anche di uno specifico progetto) e le relazioni conseguenti con l’ambiente nel quale questa si trova. Il nome SWOT deriva dall’acronimo delle parole inglesi <strong><em>Strenghts</em></strong> (cioè Forze), <strong><em>Weaknesses</em></strong> (cioè Debolezze), <strong><em>Opportunities</em></strong> (cioè Opportunità) e <strong><em>Threats</em></strong> (cioè Minacce).
 

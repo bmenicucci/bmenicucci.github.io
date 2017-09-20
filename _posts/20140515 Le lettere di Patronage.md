@@ -1,9 +1,8 @@
 ---
-layout: single
 title: La lettera di Patronage
+layout: single
 Date: 15/04/2014
 ---
-
 
 #La lettera di Patronage 
 

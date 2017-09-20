@@ -1,8 +1,9 @@
 ---
+title: Il consulente e l&#8217;imprenditore con la sindrome di Tafazzi
+date: 2014-03-31 18:14:36 Z
 layout: single
-title: 'Il consulente e l&#8217;imprenditore con la sindrome di Tafazzi'
-date: 2014-03-31 18:14:36
 ---
+
 <h1>Il consulente e l'imprenditore con la sindrome di Tafazzi</h1>
 [N]on smetto mai di stupirmi davanti all'atteggiamento di certi "<em>imprenditori</em>" <span>che, come il celebre </span><a href="http://it.wikipedia.org/wiki/Tafazzi">Tafazzi</a><span>, sembrano trarre divertimento dal martellarsi gli attributi. Pur consapevole del fatto che il consulente non vende i propri servizi, ma si fa scegliere, nel corso del tempo ho fatto una raccolta di frasi fatte per </span><em>evitare</em><span> il contatto (contagio?); ne voglio ricordare alcune:</span>
 <ul>

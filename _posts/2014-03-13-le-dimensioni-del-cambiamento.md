@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Le dimensioni del cambiamento
-date: 2014-03-13 17:42:46
+date: 2014-03-13 17:42:46 Z
+layout: single
 ---
+
 <h1>La caratteristica vincente che tutti gli imprenditori devono sviluppare</h1>
 [C]’è un tratto caratteristico, una competenza, che ogni imprenditore non può fare a meno di coltivare e sviluppare: <strong>la capacità di vendere</strong>. La vita di ciascuno di noi è carica di momenti in cui è necessario negoziare: vendere un’azienda, stipulare un contratto importante, o convincere vostro figlio a rientrare a un’ora decente, sono tutte attività che richiedono capacità di negoziazione e saper <strong>convincere</strong> gli altri a muoversi nella direzione che vogliamo.
 

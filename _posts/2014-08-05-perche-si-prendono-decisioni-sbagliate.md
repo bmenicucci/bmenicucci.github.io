@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Perché si prendono decisioni sbagliate
-date: 2014-08-05 17:48:34
+date: 2014-08-05 17:48:34 Z
+layout: single
 ---
+
 [I]l periodo estivo, di solito, porta con sé una maggiore propensione alla riflessione, complice anche l'aria di vacanza che si respira. Perciò, in questo numero de La Performance Review vorrei fare, appunto, una riflessione su come tutti quanti affrontiamo le nostre sfide quotidiane.
 
 Qualche mese fa, la Harvard Business Review ha lanciato un sondaggio dal titolo "<a href="http://hbr.org/web/comm/zurich/question-of-the-week">What leads to poor decision making inside your organization?</a>", che possiamo tradurre in "cosa porta a prendere decisioni <em>povere</em>, cioè sbagliate o di <strong>scarsa rilevanza</strong>".

@@ -1,8 +1,9 @@
 ---
-layout: single
 title: La lettera di Patronage
-date: 2014-05-16 14:32:09
+date: 2014-05-16 14:32:09 Z
+layout: single
 ---
+
 <h1>La lettera di Patronage</h1>
 [L]a <strong>lettera di Patronage</strong>, conosciuta anche come “<em>lettera di gradimento</em>”, è uno strumento che negli ultimi anni ha avuto una notevole diffusione. Si tratta di una dichiarazione rilasciata da un soggetto (il <em>patronnant</em> o patrocinante) a una banca dove il soggetto, di solito, è una società che ne controlla altre, allo scopo di <a href="http://it.wikipedia.org/wiki/Lettera_di_patronage">“<em>ottenere, rinnovare o mantenere un finanziamento ad una sua partecipata o controllata</em>”</a>" (Fonte: Wikipedia) senza dover rilasciare una vera e propria fidejussione.
 

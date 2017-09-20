@@ -1,6 +1,7 @@
 ---
-layout: single
 title: Il Coraggio di Decidere
+date: 2014-04-15 00:00:00 Z
+layout: single
 ---
 
 #Il Coraggio di Decidere

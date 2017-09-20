@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Migliorare il Cash Flow
-date: 2014-05-18 14:18:27
+date: 2014-05-18 14:18:27 Z
+layout: single
 ---
+
 <h1>Come migliorare il Cash Flow</h1>
 [I]n tempo di crisi, si sa, l’indicatore principale da tenere sotto stretto controllo non è il <strong><em>fatturato</em></strong> e nemmeno il <strong><em>margine</em></strong>, bensì la <strong>Cassa</strong> perché se viene a mancare l’equilibrio economico, ci saranno dei problemi ma se manca il flusso di cassa l’azienda è destinata, ben presto, a morire.
 

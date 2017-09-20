@@ -1,21 +1,21 @@
 ---
-layout: single
 title: Risultati Tipici
-permalink: /risultati-tipici/
+permalink: "/risultati-tipici/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: risultati.jpg
-sidebar: 
+sidebar:
   nav: chisiamo
 category: About us
 tag: M&A
 carousel:
-  - image: /images/clients/base.jpg
-  - image: /images/clients/gesam.jpg  
-  - image: /images/clients/formetica.jpg  
-  - image: /images/clients/grifols.jpg
-  - image: /images/clients/icp.jpg
-  - image: /images/clients/mir.jpg
+- image: "/images/clients/base.jpg"
+- image: "/images/clients/gesam.jpg"
+- image: "/images/clients/formetica.jpg"
+- image: "/images/clients/grifols.jpg"
+- image: "/images/clients/icp.jpg"
+- image: "/images/clients/mir.jpg"
 ---
 
 ## Quali risultati mi posso aspettare?

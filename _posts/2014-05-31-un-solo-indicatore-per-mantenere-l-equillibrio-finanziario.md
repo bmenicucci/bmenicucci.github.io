@@ -1,8 +1,9 @@
 ---
+title: Un solo indicatore per mantenere l&#8217;equilibrio finanziario
+date: 2014-05-31 16:55:46 Z
 layout: single
-title: 'Un solo indicatore per mantenere l&#8217;equilibrio finanziario'
-date: 2014-05-31 16:55:46
 ---
+
 <h2>Si può monitorare l’equilibrio finanziario dell’azienda con un solo indicatore?</h2>
 Nello scorso numero sottolineavo la necessità, in tempo di crisi, di tenere sotto controllo il flusso di cassa perché ove questo venisse a mancare, si creerebbero le condizioni per il <em>default</em>.
 

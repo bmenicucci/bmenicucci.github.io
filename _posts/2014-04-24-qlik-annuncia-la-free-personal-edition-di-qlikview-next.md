@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Qlik annuncia la Free Personal Edition di Qlikview.Next
-date: 2014-04-24 08:17:40
+date: 2014-04-24 08:17:40 Z
+layout: single
 ---
+
 <h1>Qlik annuncia l’arrivo di <em>QlikView.Next</em> Personal Edition in versione gratuita</h1>
 <strong>Qlikview.Next</strong> rappresenta l’evoluzione della piattaforma Qlikview: un prodotto che fornisce una autentica esperienza di <em>business intelligence</em> “self service” e che potenzia la capacità degli utenti di prendere decisioni migliori.
 

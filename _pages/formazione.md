@@ -1,11 +1,11 @@
 ---
-layout: single
 title: Formazione e Facilitazione
-permalink: /formazione/
+permalink: "/formazione/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: critical-chain.jpg
-sidebar: 
+sidebar:
   nav: formazione
 category: Formazione
 tag: Formazione

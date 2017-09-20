@@ -1,6 +1,7 @@
 ---
-layout: single
 title: Far crescere fatturato e profitti nell'economia di rete
+date: 2014-04-12 00:00:00 Z
+layout: single
 ---
 
 #Far crescere fatturato e profitti nell'economia di rete

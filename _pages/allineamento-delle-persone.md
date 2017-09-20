@@ -1,7 +1,7 @@
 ---
-layout: single
 title: Allineamento delle Persone
-permalink: /allineamento-delle-persone/
+permalink: "/allineamento-delle-persone/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: allineamento.jpg

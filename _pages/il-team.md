@@ -1,21 +1,20 @@
 ---
-layout: single
 title: il Team
-permalink: /il-team/
+permalink: "/il-team/"
+layout: single
 header:
   overlay_filter: rgba(235,235,235, 0.5)
   overlay_image: teamwork.jpg
-sidebar: 
+sidebar:
   nav: chisiamo
 category: About us
 tag: M&A
 carousel:
-  - image: /images/post01.jpg
-  - image: /images/post02.jpg
-  - image: /images/post03.jpg
+- image: "/images/post01.jpg"
+- image: "/images/post02.jpg"
+- image: "/images/post03.jpg"
 ---
 
-	  
 ![](/images/work-in-progress.png)
 
 {% if page.carousel %}

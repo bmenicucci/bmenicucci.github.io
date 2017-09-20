@@ -1,25 +1,25 @@
 ---
-title: "Il Cruscotto Direzionale"
-excerpt: "Creazione di uno strumento di supporto alle decisioni."
+title: Il Cruscotto Direzionale
+excerpt: Creazione di uno strumento di supporto alle decisioni.
 header:
   teaser: analisi-andamento.png
 sidebar:
-  - title: "Cliente"
-    image: clients/base.jpg
-    image_alt: "logo"
-    text: "Realizzazione di uno strumento di analisi"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+- title: Cliente
+  image: clients/base.jpg
+  image_alt: logo
+  text: Realizzazione di uno strumento di analisi
+- title: Responsibilities
+  text: Reuters try PR stupid commenters should isn't a business model
 gallery:
-  - url: analisi-andamento.png
-    image_path: analisi-andamento.png
-    alt: "placeholder image 1"
-  - url: analisi-budget.png
-    image_path: analisi-budget.png
-    alt: "placeholder image 2"
-  - url: analisi-scaduto.png
-    image_path: analisi-scaduto.png
-    alt: "placeholder image 3"
+- url: analisi-andamento.png
+  image_path: analisi-andamento.png
+  alt: placeholder image 1
+- url: analisi-budget.png
+  image_path: analisi-budget.png
+  alt: placeholder image 2
+- url: analisi-scaduto.png
+  image_path: analisi-scaduto.png
+  alt: placeholder image 3
 ---
 
 Il Cruscotto Direzionale (detto anche *Cockpit*, *Dashboard*, o *Tableau de Bord*) è uno strumento di gestione interna che, attraverso una serie di indicatori, permette di misurare il livello di raggiungimento degli obiettivi stabiliti.

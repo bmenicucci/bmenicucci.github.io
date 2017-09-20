@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Il budget è morto? (parte 2)
-date: 2013-09-08 15:58:05
+date: 2013-09-08 15:58:05 Z
+layout: single
 ---
+
 <h1>Il budget è morto? (parte 2)</h1>
 Nel mio precedente post “<a title="Il Budget è morto? (parte 1)" href="http://www.blackstarconsulting.it/2013/09/il-budget-e-morto-parte-1/" target="_blank">il budget è morto? (parte 1)</a>”  ho evidenziato come il budget, lo strumento di pianificazione principale della stragrande maggioranza delle aziende, abbia perso di efficacia rispetto a mercati sempre più globalizzati e ipercompetitivi, arrivando addirittura a costituire una barriera alla crescita, alla coltivazione della relazione di lungo termine con i Clienti e un limite alla creatività e iniziativa personale.
 

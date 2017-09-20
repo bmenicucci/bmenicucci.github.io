@@ -1,8 +1,9 @@
 ---
+title: Sei soddisfatto dei risultati della tua  azienda?
+date: 2013-05-23 08:46:50 Z
 layout: single
-title:  Sei soddisfatto dei risultati della tua  azienda?
-date: 2013-05-23 08:46:50
 ---
+
 "C'è qualcosa che non va, ma non saprei dire cosa", "Il fatturato cresce ma non si guadagna più come una volta", "Spesso ci troviamo in crisi di liquidità"
 
 Se ti ritrovi in queste affermazioni potresti avere bisogno di aiuto nel mettere a punto un <strong>sistema di gestione delle performance</strong>.  Qualcuno potrebbe obiettare che i controlli in azienda si fanno già: ci sono <em><strong>le stampe statistiche</strong></em> che si lanciano dal gestionale, e poi il ragioniere, con Excel, rielabora i dati e "<em><strong>mi dà la situazione aggiornata</strong></em>".

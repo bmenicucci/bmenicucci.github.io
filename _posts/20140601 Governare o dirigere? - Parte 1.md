@@ -1,10 +1,8 @@
 ---
-layout: single
 title: Governare o dirigere? - Parte 1
+layout: single
 Date: 31/05/2014
 ---
-
-
 
 #Governare o dirigere? - Parte 1
 

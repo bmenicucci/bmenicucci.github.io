@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Segnali di crisi aziendale
-date: 2013-09-25 17:20:16
+date: 2013-09-25 17:20:16 Z
+layout: single
 ---
+
 <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
 <h1>Segnali precoci di crisi aziendale</h1>
 <h2><a href="http://www.blackstarconsulting.it/wp-content/uploads/2013/09/Come-segnali-di-fumo-a28964908.jpg"><img class="alignleft size-thumbnail wp-image-1278" alt="Segnali di crisi" src="http://www.blackstarconsulting.it/wp-content/uploads/2013/09/Come-segnali-di-fumo-a28964908-150x150.jpg" width="150" height="150" /></a>E' possibile prevedere una crisi aziendale?</h2>

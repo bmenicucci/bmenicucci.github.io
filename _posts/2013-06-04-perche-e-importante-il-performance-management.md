@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Perché è importante il performance management?
-date: 2013-06-04 10:44:08
+date: 2013-06-04 10:44:08 Z
+layout: single
 ---
+
 Il Performance Management, cioè la gestione delle prestazioni - e quindi dei risultati, è importante perché:
 <ol>
 	<li>informa sull'andamento del business</li>

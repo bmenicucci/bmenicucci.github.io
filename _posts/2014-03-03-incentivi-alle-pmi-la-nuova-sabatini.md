@@ -1,8 +1,9 @@
 ---
-layout: single
 title: 'Incentivi alle PMI: la nuova &#8220;Sabatini&#8221;'
-date: 2014-03-03 17:07:31
+date: 2014-03-03 17:07:31 Z
+layout: single
 ---
+
 <h2>Le "FAQ" del MiSE sugli incentivi alle PMI previsti dal Decreto del Fare (D.Lgs. n. 69/2013)</h2>
 Il Ministero dello Sviluppo Economico (MiSE) ha reso disponibili online le <strong><a title="Le FAQ del Ministero" href="http://www.mise.gov.it/index.php?option=com_content&amp;view=article&amp;idarea1=1974&amp;idarea2=0&amp;idarea3=0&amp;idarea4=0&amp;andor=AND&amp;sectionid=3,20&amp;andorcat=AND&amp;partebassaType=0&amp;idareaCalendario1=0&amp;MvediT=1&amp;showMenu=1&amp;showCat=1&amp;showArchiveNewsBotton=0&amp;idmenu=3699&amp;directionidUser=0&amp;viewType=2&amp;cattitle=Domande%20ricorrenti,%20pareri,%20faq" target="_blank">FAQ</a></strong> relative alla<strong> "Nuova Sabatini"</strong> insieme a un <a href="http://www.mise.gov.it/images/stories/Bandi/Calcolo_contributo_IAI_Beni_Strumentali.xlsx" target="_blank"><strong>foglio di calcolo</strong></a> per quantificare il contributo ministeriale. La norma, inclusa nel <em>Decreto del Fare,</em> si rivolge alle <strong>PMI </strong>che investono in beni strumentali e prevede un <strong>finanziamento agevolato</strong> dalla banca, garantito dalla Cassa Depositi e Prestiti, e un <strong>contributo</strong> a copertura parziale degli interessi. La legge agevola l’acquisto di "<em>macchinari, impianti e attrezzature nuovi di fabbrica ad uso produttivo"</em> .
 

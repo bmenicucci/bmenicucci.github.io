@@ -1,7 +1,10 @@
 ---
+title: Controllo Di Gestione Fra Tradizione E Evoluzione
+date: 2016-02-12 00:00:00 Z
 layout: single
 comments: true
 ---
+
 <h2>Un seminario gratuito di CNA e APCO sul Controllo di Gestione</h2>
 <blockquote><em>It is not necessary to change. Survival is not mandatory.</em> (W. Edwards Deming)</blockquote>
 L'impresa, lo sappiamo, è un insieme di risorse (<em>umane, tecnologiche, finanziarie</em>) organizzate allo scopo di raggiungere un obiettivo.

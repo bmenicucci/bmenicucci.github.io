@@ -1,11 +1,11 @@
 ---
-title: "Grazie per averci contattato!"
+title: Grazie per averci contattato!
+permalink: "/thanks/"
 layout: single
-excerpt: "Grazie per averci contattato!"
+excerpt: Grazie per averci contattato!
 sitemap: false
 image: postman.jpg
-permalink: /thanks/
-sidebar: 
+sidebar:
   nav: chisiamo
 category: About us
 tag: M&A

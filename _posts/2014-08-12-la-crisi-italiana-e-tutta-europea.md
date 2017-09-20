@@ -1,8 +1,9 @@
 ---
-layout: single
 title: La crisi italiana è tutta europea
-date: 2014-08-12 00:00:00
+date: 2014-08-12 00:00:00 Z
+layout: single
 ---
+
 La crisi italiana, la seconda in pochi mesi, preoccupa tutti: sul New York Times ieri, in un articolo dal titolo “<a href="http://t.co/krXQyDhP8L">Il problema dell'Italia è il problema dell'Europa</a>, <a href="@simon_nixon">Simon Nixon</a> si chiedeva in che modo l'euro sopravvivrà, cioè sotto quale egida: tedesca o italiana?
 <h2>La "regola" tedesca</h2>
 La Germania, è noto, vorrebbe una moneta forte, basata su regole certe, su Paesi che possono contare sulle proprie risorse e dove eventuali crisi di debito siano affrontate con condizioni ben precise e in un regime di “sovranità condivisa”.

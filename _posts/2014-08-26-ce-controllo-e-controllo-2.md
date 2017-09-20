@@ -1,8 +1,9 @@
 ---
-layout: single
 title: C’è controllo e controllo
-date: 2014-08-26 00:00:00
+date: 2014-08-26 00:00:00 Z
+layout: single
 ---
+
 Il Controllo di Gestione è un aspetto fondamentale della vita di un'impresa: senza controllo, infatti, non c'è gestione e qualsiasi azienda sarebbe destinata al <strong>fallimento</strong> e <strong>all'estinzione</strong>.
 
 Bisogna, però, fare chiarezza su un punto: il Controllo di Gestione <strong>non è</strong> il programma di statistica fornito con il gestionale, né la stampa Excel dell'ufficio Amministrazione. Lo si può definire, invece, come un <strong><em>processo direzionale</em></strong>, rilevante ai fini dell’attività di governo dell’azienda: infatti è lo strumento con cui l’imprenditore o il management valutano quotidianamente le performance dell’azienda nelle varie aree gestionali, soprattutto con riferimento alle tre dimensioni del valore, quella economica, quella patrimoniale e quella finanziaria.

@@ -1,8 +1,9 @@
 ---
-layout: single
 title: Atradius pubblica il nuovo “Report Paese” sulla competitività dell’Italia
-date: 2014-02-07 15:36:24
+date: 2014-02-07 15:36:24 Z
+layout: single
 ---
+
 Il colosso europeo dell’assicurazione sui crediti, <a href="http://www.global.atradius.com">Atradius</a>, pubblica periodicamente rapporti sui maggiori Paesi occidentali e sui mercati emergenti, allo scopo di supportare i propri Clienti nelle vendite all’estero. Sono documenti che forniscono una vista d’insieme, breve ma completa, sull’andamento economico-politico del Paese oggetto di osservazione e i conseguenti riflessi sulle tendenze, in termini di potenziale rischio credito.
 
 L’ultimo Country Report, pubblicato lo scorso 5 febbraio, riguarda proprio l’Italia<a class="footnote" title="see footnote" href="#fn:0">[1]</a> per la quale nel 2014 si prevede, in termini di crescita economica, solo un piccolo “rimbalzo” di appena lo 0,5% (sempre meglio, in ogni caso, del –1,8% del 2013 o del –2,6% del 2012).

@@ -1,9 +1,8 @@
 ---
-layout: single
 title: L'Analisi dei Competitor Come Leva Strategica
+layout: single
 Date: 30/06/2014
 ---
-
 
 #L'analisi dei competitor come leva strategica 
 

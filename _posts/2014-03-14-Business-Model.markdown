@@ -1,9 +1,11 @@
 ---
-layout: single
 title: L'importanza di avere un *modello di business* e di revisionarlo spesso
+date: 2014-03-14 00:00:00 Z
+categories:
+- featured
+layout: single
 author: Brunello Menicucci
 Date: 14/03/2014
-categories: featured
 ---
 
 #L'importanza di avere un *modello di business* e di revisionarlo spesso  
