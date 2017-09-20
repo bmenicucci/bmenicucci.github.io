@@ -1,6 +1,6 @@
 ---
 title: Menicucci & Associati
-timezone: UTC
+timezone: Europe/Rome
 collections:
   docs:
     title: Docs
@@ -53,7 +53,6 @@ comments:
   provider: disqus
   disqus:
     shortname: menicucciassociati
-slider_array: []
 google_site_verification: oxQ9XiBjxU9U4BqyAReldUAQFfVdt7G0sDXfMbnEZRc
 twitter:
   username: bmenicucci
