@@ -1,2 +1,0 @@
-jekyll build --config _config-dev.yml
-jekyll serve -w --config _config-dev.yml
